@@ -93,49 +93,49 @@ herzfeld-rdf/
 The custom ontology (`herzfeld_ontology.ttl`) defines classes and properties for the Herzfeld archive, aligned with Dublin Core and CIDOC-CRM where applicable.
 
 ### Namespace
-- `herz: <http://example.org/herzfeld#>`
+- `mdhn: <http://example.org/archival#>`
 
 ### Classes
-- `herz:Series`: A top-level archival series.
-- `herz:Subseries`: A subdivision of a series.
-- `herz:Resource`: An archival resource (subclasses: `herz:File`, `herz:Item`).
-- `herz:DigitalObject`: A digital representation of a resource.
-- `herz:ControlAccessTerm`: A controlled vocabulary term (e.g., geographic or genre).
+- `mdhn:Series`: A top-level archival series.
+- `mdhn:Subseries`: A subdivision of a series.
+- `mdhn:Resource`: An archival resource (subclasses: `mdhn:File`, `mdhn:Item`).
+- `mdhn:DigitalObject`: A digital representation of a resource.
+- `mdhn:ControlAccessTerm`: A controlled vocabulary term (e.g., geographic or genre).
 
 ### Properties
 - **Object Properties**:
-  - `herz:hasSubseries`: Links `Series` to `Subseries`.
-  - `herz:hasResource`: Links `Subseries` to `Resource`.
-  - `herz:hasDigitalObject`: Links `Resource` to `DigitalObject`.
-  - `herz:controlAccess`: Links `Resource` or `Subseries` to `ControlAccessTerm`.
+  - `mdhn:hasSubseries`: Links `Series` to `Subseries`.
+  - `mdhn:hasResource`: Links `Subseries` to `Resource`.
+  - `mdhn:hasDigitalObject`: Links `Resource` to `DigitalObject`.
+  - `mdhn:controlAccess`: Links `Resource` or `Subseries` to `ControlAccessTerm`.
 - **Data Properties**:
-  - `herz:title`, `herz:unitid`, `herz:scopecontent`, `herz:unitdate`, `herz:physdesc`.
-  - `herz:href`, `herz:daoTitle` (for `DigitalObject`).
-  - `herz:termType`, `herz:termValue`, `herz:altrender`, `herz:source`, `herz:authfilenumber` (for `ControlAccessTerm`).
+  - `mdhn:title`, `mdhn:unitid`, `mdhn:scopecontent`, `mdhn:unitdate`, `mdhn:physdesc`.
+  - `mdhn:href`, `mdhn:daoTitle` (for `DigitalObject`).
+  - `mdhn:termType`, `mdhn:termValue`, `mdhn:altrender`, `mdhn:source`, `mdhn:authfilenumber` (for `ControlAccessTerm`).
 
 ### Example
 ```turtle
-@prefix herz: <http://example.org/herzfeld#> .
+@prefix mdhn: <http://example.org/archival#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 
-herz:ref6808 a herz:Subseries ;
+mdhn:ref6808 a mdhn:Subseries ;
     dc:title "Ernst Herzfeld's Sketchbooks" ;
-    herz:unitid "2" ;
-    herz:hasResource herz:ref6809 .
+    mdhn:unitid "2" ;
+    mdhn:hasResource herz:ref6809 .
 
-herz:ref6809 a herz:File ;
+mdhn:ref6809 a mdhn:File ;
     dc:title "SK-I Persien" ;
-    herz:unitid "FSA A.06 02.01.01" ;
-    herz:hasDigitalObject herz:dao_ref6809 ;
-    herz:controlAccess herz:ca_persepolis .
+    mdhn:unitid "FSA A.06 02.01.01" ;
+    mdhn:hasDigitalObject mdhn:dao_ref6809 ;
+    mdhn:controlAccess mdhn:ca_persepolis .
 
-herz:dao_ref6809 a herz:DigitalObject ;
-    herz:href "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_02.01.01" ;
-    herz:daoTitle "Excavation of Persepolis (Iran): Sketchbook" .
+mdhn:dao_ref6809 a mdhn:DigitalObject ;
+    mdhn:href "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_02.01.01" ;
+    mdhn:daoTitle "Excavation of Persepolis (Iran): Sketchbook" .
 
 herz:ca_persepolis a herz:ControlAccessTerm ;
-    herz:termType "geogname" ;
-    herz:termValue "Persepolis (Iran)" .
+    mdhn:termType "geogname" ;
+    mdhn:termValue "Persepolis (Iran)" .
 ```
 
 ## Sample Data
