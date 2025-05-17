@@ -5,6 +5,7 @@ This repository contains tools to extract metadata from the [Ernst Herzfeld Pape
 While using the Smithsonian Official API to search for IIIF resources on Ernst Herzfeld, I discovered a significant XML file. It appeared to be the primary data source for Herzfeld's documents on the Smithsonian website.
 I extracted relevant data, focusing on the structure of collections, series, and subseries. This file contains well-integrated data with Wikidata, LCSH, and AAT, making it ideal for creating a Knowledge Graph to highlight key entities and their relationships. Despite the advanced technologies at the Smithsonian, including an Open Access RESTful API, they lack a machine-readable catalog.
 
+<img src="imgsrc/image_cover.JPG" alt="Cover">
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -32,7 +33,7 @@ herzfeld-rdf/
 ├── extract_herzfeld_data.py      # Script to extract JSON from XML
 ├── transform_to_ttl.py           # Script to convert JSON to Turtle
 ├── herzfeld_ontology.ttl         # Custom ontology for Herzfeld data
-├── sample_data.json              # Sample JSON for ref6808
+├── imgsrc                        # Images used in readme.md
 ├── output.ttl                    # Generated Turtle file
 ├── queries/
 │   ├── query1.rq                 # SPARQL: List items with digital images
