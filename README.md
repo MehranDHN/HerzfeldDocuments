@@ -190,41 +190,74 @@ Example snippet:
 ## SPARQL Queries
 The `queries/` directory contains example SPARQL queries to explore the RDF data.
 
-### Query 1: List Items with Digital Images
-File: `queries/query1.rq`
-```sparql
-PREFIX herz: <http://example.org/herzfeld#>
-PREFIX dc: <http://purl.org/dc/elements/1.1/>
+### Query 1: List Series with their label
 
-SELECT ?item ?title ?href
-WHERE {
-  ?item a herz:Item ;
-        dc:title ?title ;
-        herz:hasDigitalObject ?dao .
-  ?dao herz:href ?href .
+```sparql
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix mdhn: <http://example.org/archival#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#> 
+select *  {
+    ?series a mdhn:Series;
+         rdfs:label ?lbl.
 }
 ```
 
 **Example Result**:
 ```
-?item: herz:ref6810
-?title: "SK-II Persien"
-?href: "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_02.01.02"
+1  mdhn:ref9924     "Paper Squeezes of Inscriptions"@en
+2  mdhn:ref10431    "Records of Samarra Expeditions"@en
+3  mdhn:ref10847    "Photographic Files"@en
+4  mdhn:ref8672     "Drawings and Maps"@en
+5  mdhn:ref6806     "Sketchbooks"@en
+6  mdhn:ref8055     "Notebooks"@en
+7  mdhn:ref6208     "Travel Journals"@en
 ```
 
-### Query 2: Find Resources by Control Access Term
-File: `queries/query2.rq`
-```sparql
-PREFIX herz: <http://example.org/herzfeld#>
-PREFIX dc: <http://purl.org/dc/elements/1.1/>
+### Query 2: List Subseries with their label
 
-SELECT ?resource ?title ?termValue
-WHERE {
-  ?resource a herz:Resource ;
-            dc:title ?title ;
-            herz:controlAccess ?term .
-  ?term herz:termValue ?termValue .
-  FILTER(?termValue = "Persepolis (Iran)")
+```sparql
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix mdhn: <http://example.org/archival#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#> 
+
+select *  {
+    ?subseries a mdhn:Subseries;
+         rdfs:label ?lbl.
+}
+```
+
+**Example Result**:
+```
+?resource: herz:ref6809
+?title: "SK-I Persien"
+?termValue: "Persepolis (Iran)"
+```
+
+### Query 3: List Resources with their parents
+Despite the fact that resources organized into Series and Subseries, the immediate parent of some resources are instances of `mdhn:Series`.
+Note that the instanxes of `mdhn:Subseries` are associated with their parents via `mdhn:isParetOfSeries` too. 
+**isPartOfSeries(x,y) -> (Resource(x) ^ Subseries(x)) ^ Series(y)**
+```sparql
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix mdhn: <http://example.org/archival#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#> 
+
+Select DISTINCT ?resource  ?parent  ?parenttype where{
+   {
+ 
+         ?resource mdhn:isPartOfSeries ?parent.
+         FILTER Not Exists {?resource mdhn:isPartOSubseries ?anysubseries}
+   }
+   UNION
+   {
+         ?resource mdhn:isPartOfSubseries ?parent.  
+   }
+    OPTIONAL{?parent a ?parenttype }
+
+    FILTER (?parenttype!=schema:Collection)   
 }
 ```
 
