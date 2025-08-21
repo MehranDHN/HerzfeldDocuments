@@ -1,0 +1,196 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix arch: <http://example.org/archival#> .
+
+# Ontology Definition
+arch:ArchivalOntology a owl:Ontology ;
+    dct:title "Archival Ontology"@en ;
+    dct:description "An ontology for archival series, subseries, and resources based on a provided JSON model, compatible with SKOS and schema.org."@en .
+
+# Classes
+arch:Series a owl:Class ;
+    rdfs:label "Series"@en ;
+    rdfs:comment "A collection of archival materials grouped together."@en ;
+    rdfs:subClassOf schema:Collection .
+
+arch:Subseries a owl:Class ;
+    rdfs:label "Subseries"@en ;
+    rdfs:comment "A subdivision of a series, containing related archival materials."@en ;
+    rdfs:subClassOf schema:Collection .
+
+arch:Resource a owl:Class ;
+    rdfs:label "Resource"@en ;
+    rdfs:comment "An individual archival item or file within a subseries."@en ;
+    rdfs:subClassOf schema:CreativeWork .
+
+# Properties
+arch:hasSubseries a owl:ObjectProperty ;
+    rdfs:label "has subseries"@en ;
+    rdfs:domain arch:Series ;
+    rdfs:range arch:Subseries ;
+    rdfs:subPropertyOf schema:hasPart ;
+    owl:inverseOf arch:isPartOfSeries .
+
+arch:isPartOfSeries a owl:ObjectProperty ;
+    rdfs:label "is part of series"@en ;
+    rdfs:domain arch:Subseries ;
+    rdfs:range arch:Series ;
+    rdfs:subPropertyOf schema:isPartOf .
+
+arch:hasResource a owl:ObjectProperty ;
+    rdfs:label "has resource"@en ;
+    rdfs:domain arch:Subseries ;
+    rdfs:range arch:Resource ;
+    rdfs:subPropertyOf schema:hasPart ;
+    owl:inverseOf arch:isPartOfSubseries .
+
+arch:isPartOfSubseries a owl:ObjectProperty ;
+    rdfs:label "is part of subseries"@en ;
+    rdfs:domain arch:Resource ;
+    rdfs:range arch:Subseries ;
+    rdfs:subPropertyOf schema:isPartOf .
+
+arch:unitid a owl:DatatypeProperty ;
+    rdfs:label "unit identifier"@en ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Series arch:Subseries arch:Resource) ] ;
+    rdfs:range xsd:string ;
+    rdfs:subPropertyOf dct:identifier .
+
+arch:scopecontent a owl:DatatypeProperty ;
+    rdfs:label "scope and content"@en ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Subseries arch:Resource) ] ;
+    rdfs:range xsd:string ;
+    rdfs:subPropertyOf schema:description .
+
+arch:unitdate a owl:DatatypeProperty ;
+    rdfs:label "unit date"@en ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Subseries arch:Resource) ] ;
+    rdfs:range xsd:string ;
+    rdfs:subPropertyOf schema:temporalCoverage .
+
+arch:physdesc a owl:DatatypeProperty ;
+    rdfs:label "physical description"@en ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Subseries arch:Resource) ] ;
+    rdfs:range xsd:string ;
+    rdfs:subPropertyOf schema:physicalCondition .
+
+arch:hasDigitalImage a owl:DatatypeProperty ;
+    rdfs:label "has digital image"@en ;
+    rdfs:domain arch:Resource ;
+    rdfs:range xsd:boolean .
+
+arch:controlAccess a owl:ObjectProperty ;
+    rdfs:label "control access"@en ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Series arch:Subseries arch:Resource) ] ;
+    rdfs:range skos:Concept ;
+    rdfs:subPropertyOf schema:about .
+
+arch:seriesType a owl:ObjectProperty ;
+    rdfs:label "series type"@en ;
+    rdfs:domain arch:Series ;
+    rdfs:range skos:Concept ;
+    rdfs:subPropertyOf schema:additionalType ;
+    owl:inverseOf arch:isTypeOfSeries .
+
+arch:isTypeOfSeries a owl:ObjectProperty ;
+    rdfs:label "is type of series"@en ;
+    rdfs:domain skos:Concept ;
+    rdfs:range arch:Series .    
+
+# SKOS Concept Scheme for Control Access
+arch:ControlAccessScheme a skos:ConceptScheme ;
+    skos:prefLabel "Archival Control Access Terms"@en .
+
+# Example Instances
+arch:ref6807 a arch:Series ;
+    schema:name "Sketchbooks"@en ;
+    arch:hasSubseries arch:ref6808 .
+
+arch:ref6808 a arch:Subseries ;
+    schema:name "Ernst Herzfeld's Sketchbooks"@en ;
+    arch:unitid "2" ;
+    arch:scopecontent "The sketchbooks of Ernst Herzfeld (1879-1948)..."@en ;
+    arch:controlAccess arch:Taq-e-Bostan, arch:Sketchbooks-Genre ;
+    arch:isPartOfSeries arch:ref6807 ;
+    arch:hasResource arch:ref6809, arch:ref6810 .
+
+arch:ref6809 a arch:Resource ;
+    schema:name "SK-I Persien"@en ;
+    arch:unitid "FSA A.06 02.01.01" ;
+    arch:hasDigitalImage false ;
+    arch:controlAccess arch:Persepolis ;
+    schema:url <https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_02.01.01> ;
+    schema:description "Excavation of Persepolis (Iran): Sketchbook"@en ;
+    arch:isPartOfSubseries arch:ref6808 .
+
+arch:ref6810 a arch:Resource ;
+    schema:name "SK-II Persien"@en ;
+    arch:unitid "FSA A.06 02.01.02" ;
+    arch:hasDigitalImage true ;
+    arch:controlAccess arch:Persepolis ;
+    schema:url <https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_02.01.02> ;
+    schema:description "Excavation of Persepolis (Iran): Sketch"@en ;
+    arch:isPartOfSubseries arch:ref6808 .
+
+# SKOS Concepts for Control Access
+arch:Taq-e-Bostan a skos:Concept ;
+    skos:prefLabel "Taq-e Bostan Site (Iran)"@en ;
+    skos:inScheme arch:ControlAccessScheme ;
+    skos:notation "lcsh" ;
+    schema:additionalType "geographic" .
+
+arch:Sketchbooks-Genre a skos:Concept ;
+    skos:prefLabel "Sketchbooks"@en ;
+    skos:inScheme arch:ControlAccessScheme ;
+    skos:notation "aat" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300027354> ;
+    schema:additionalType "genre_form" .
+
+arch:Persepolis a skos:Concept ;
+    skos:prefLabel "Persepolis (Iran)"@en ;
+    skos:inScheme arch:ControlAccessScheme ;
+    skos:notation "lcsh" ;
+    schema:additionalType "geographic" .
+
+# Series Type Concepts
+arch:TravelJournals a skos:Concept ;
+    skos:prefLabel "Travel Journals"@en ;
+    skos:inScheme arch:SeriesTypeScheme .
+
+arch:Sketchbooks a skos:Concept ;
+    skos:prefLabel "Sketchbooks"@en ;
+    skos:inScheme arch:SeriesTypeScheme .
+
+arch:Notebooks a skos:Concept ;
+    skos:prefLabel "Notebooks"@en ;
+    skos:inScheme arch:SeriesTypeScheme .
+
+arch:PhotographicFiles a skos:Concept ;
+    skos:prefLabel "Photographic Files"@en ;
+    skos:inScheme arch:SeriesTypeScheme .
+
+arch:DrawingsAndMaps a skos:Concept ;
+    skos:prefLabel "Drawings and Maps"@en ;
+    skos:inScheme arch:SeriesTypeScheme .
+
+arch:Squeezes a skos:Concept ;
+    skos:prefLabel "Squeezes"@en ;
+    skos:inScheme arch:SeriesTypeScheme .
+
+arch:SamarraExpedition a skos:Concept ;
+    skos:prefLabel "Samarra Expedition"@en ;
+    skos:inScheme arch:SeriesTypeScheme .    
+
+arch:ref6806 a arch:Series ;
+    schema:name "Travel Journals"@en ;
+    arch:seriesType arch:TravelJournals .
+
+arch:ref6807 a arch:Series ;
+    schema:name "Sketchbooks"@en ;
+    arch:seriesType arch:Sketchbooks ;
+    arch:hasSubseries arch:ref6808 .    
