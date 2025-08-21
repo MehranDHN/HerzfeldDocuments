@@ -1,0 +1,101 @@
+{
+  "head" : {
+    "vars" : [
+      "parent"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10254"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10359"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11356"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref12307"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref18073"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20270"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20309"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref22863"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9925"
+        }
+      },
+      {
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        }
+      }
+    ]
+  }
+}

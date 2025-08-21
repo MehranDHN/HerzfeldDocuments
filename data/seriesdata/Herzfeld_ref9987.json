@@ -1,0 +1,5868 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "parent",
+      "unitid",
+      "name",
+      "accessurl",
+      "parentlabel"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10000"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M007"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-7: Pahlavik, publ. Paikuli. p.129"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M007"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10002"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M008"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-8: Pahlavik, publ. Paikuli. p.131"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M008"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10004"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M009"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-9: Pahlavik, publ. Paikuli. p.133"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M009"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10006"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M010"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-10: Pahlavik, publ. Paikuli. p.135"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M010"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10008"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M011"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-11: Pahlavik, publ. Paikuli. p.137"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M011"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10010"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M012"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-12: Pahlavik, publ. Paikuli. p.141"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M012"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10012"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M013"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-13: Pahlavik, publ. Paikuli. p.143"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M013"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10014"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M014"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-14: Pahlavik, publ. Paikuli. p.145"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M014"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10016"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M015"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-15: Pahlavik, publ. Paikuli. p.147"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M015"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10018"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M016"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-16: Pahlavik, publ. Paikuli. p.149"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M016"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10020"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M017"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-17: Pahlavik, publ. Paikuli. p.151"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M017"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10022"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M018"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-18: Pahlavik, publ. Paikuli. p.153"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M018"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10024"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M019"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-19: Pahlavik, publ. Paikuli. p.155"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M019"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10026"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M020"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-20: Pahlavik, publ. Paikuli. p.157"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M020"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10028"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M021"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-21: Pahlavik, publ. Paikuli. p.159"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M021"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10030"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M022"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-22: Pahlavik, publ. Paikuli. p.161"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M022"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10032"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M023"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-23: Pahlavik, publ. Paikuli. p.163"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M023"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10034"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M024"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-24: Pahlavik, publ. Paikuli. p.165"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M024"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10036"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M025"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-25: Pahlavik, publ. Paikuli. p.167"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M025"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10038"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M026"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-26: Pahlavik, publ. Paikuli. p.169"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M026"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10040"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M027"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-27: Pahlavik, publ. Paikuli. p.171"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M027"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10042"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M028"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-28: Pahlavik, publ. Paikuli. p.173"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M028"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10044"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M029"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-29: Pahlavik, publ. Paikuli. p.175"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M029"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10046"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M030"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-30: Pahlavik, publ. Paikuli. p.177"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M030"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10048"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M031"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-31: Pahlavik, publ. Paikuli. p.179"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M031"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10050"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M032"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-32: Pahlavik, publ. Paikuli. p.181"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M032"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10052"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M033"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-33: Pahlavik, publ. Paikuli. p.183"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M033"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10054"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M034"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-34: Pahlavik, publ. Paikuli. p.185"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M034"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10058"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M036"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-36: Pahlavik, publ. Paikuli. p.189"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M036"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10060"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M037"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-37: Pahlavik, publ. Paikuli. p.191"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M037"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10062"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M038"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-38: Pahlavik, publ. Paikuli. p.193"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M038"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10064"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M039"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-39: Pahlavik, publ. Paikuli. p.195"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M039"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10066"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M040"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-40: Pahlavik, publ. Paikuli. p.197"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M040"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10068"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M041"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-41: Pahlavik, publ. Paikuli. p.199"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M041"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10070"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M042"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-42: Pahlavik, publ. Paikuli. p.201"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M042"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10072"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M043"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-43: Parsik, publ. Paikuli. p.10"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M043"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10074"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M044"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-44: Parsik, publ. Paikuli. p.12"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M044"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10076"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M045"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-45: Parsik, publ. Paikuli. p.14"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M045"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10078"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M046"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-46: Parsik, publ. Paikuli. p.16"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M046"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10080"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M047"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-47: Parsik, publ. Paikuli. p.18"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M047"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10082"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M048"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-48: Parsik, publ. Paikuli. p.20"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M048"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10084"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M049"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-49: Parsik, publ. Paikuli. p.22"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M049"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10086"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M050"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-50: Parsik, publ. Paikuli. p.24"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M050"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10088"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M051"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-51: Parsik, publ. Paikuli. p.26"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M051"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10090"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M052"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-52: Parsik, publ. Paikuli. p.28"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M052"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10092"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M053"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-53: Parsik, publ. Paikuli. p.30"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M053"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10094"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M054"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-54: Parsik, publ. Paikuli. p.32"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M054"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10096"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M055"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-55: Parsik, publ. Paikuli. p.34"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M055"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10098"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M056"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-56: Parsik, publ. Paikuli. p.36"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M056"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10100"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M057"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-57: Parsik, publ. Paikuli. p.38"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M057"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10102"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M058"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-58: Parsik, publ. Paikuli. p.40"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M058"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10104"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M059"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-59: Parsik, publ. Paikuli. p.42"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M059"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10106"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M060"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-60: Parsik, publ. Paikuli. p.44"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M060"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10108"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M061"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-61: Parsik, publ. Paikuli. p.46"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M061"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10110"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M062"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-62: Parsik, publ. Paikuli. p.48"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M062"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10112"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M063"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-63: Parsik, publ. Paikuli. p.50"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M063"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10114"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M064"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-64: Parsik, publ. Paikuli. p.52"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M064"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10116"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M065"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-65: Parsik, publ. Paikuli. p.54"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M065"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10118"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M066"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-66: Parsik, publ. Paikuli. p.56"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M066"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10120"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M067"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-67: Parsik, publ. Paikuli. p.58"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M067"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10122"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M068"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-68: Parsik, publ. Paikuli. p.60"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M068"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10124"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M069"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-69: Parsik, publ. Paikuli. p.62"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M069"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10126"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M070"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-70: Parsik, publ. Paikuli. p.64"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M070"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10128"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M071"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-71: Parsik, publ. Paikuli. p.66"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M071"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10130"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M072"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-72: Parsik, publ. Paikuli. p.67"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M072"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10132"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M073"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-73: Parsik, publ. Paikuli. p.69"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M073"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10134"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M074"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-74: Parsik, publ. Paikuli. p.71"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M074"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10136"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M075"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-75: Parsik, publ. Paikuli. p.73"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M075"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10138"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M076"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-76: Parsik, publ. Paikuli. p.75"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M076"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10140"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M077"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-77: Parsik, publ. Paikuli. p.77"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M077"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10142"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M078"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-78: Parsik, publ. Paikuli. p.79"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M078"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10144"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M079"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-79: Parsik, publ. Paikuli. p.81"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M079"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10146"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M080"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-80: Parsik, publ. Paikuli. p.83"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M080"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10148"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M081"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-81: Parsik, publ. Paikuli. p.85"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M081"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10150"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M082"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-82: Parsik, publ. Paikuli. p.87"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M082"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10152"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M083"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-83: Parsik, publ. Paikuli. p.89"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M083"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10154"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M084"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-84: Parsik, publ. Paikuli. p.91"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M084"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10156"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M085"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-85: Parsik, publ. Paikuli. p.93"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M085"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10158"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M086"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-86: Parsik, publ. Paikuli. p.95"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M086"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10160"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M087"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-87: Parsik, publ. Paikuli. p.97"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M087"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10162"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M088"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-88: Parsik, publ. Paikuli. p.99"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M088"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10164"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M089"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-89: Parsik, publ. Paikuli. p.101"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M089"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10166"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M090"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-90: Parsik, publ. Paikuli. p.103"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M090"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10168"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M091"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-91: Parsik, publ. Paikuli. p.105"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M091"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10170"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M092"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-92: Parsik, publ. Paikuli. p.107"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M092"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10172"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M093"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-93: Parsik, publ. Paikuli. p.109"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M093"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10174"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M094"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-94: Parsik, publ. Paikuli. p.111"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M094"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10176"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M095"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-95: Parsik, publ. Paikuli. p.113"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M095"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10178"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M096"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-96: Parsik, publ. Paikuli. p.115"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M096"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10180"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M097"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-97: Pahlavik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M097"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10182"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M098"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-98: Pahlavik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M098"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10184"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M099"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-99: Pahlavik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M099"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10186"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M100"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-100: Pahlavik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M100"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10188"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M101"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-101: Pahlavik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M101"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10190"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M102"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-102: Pahlavik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M102"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10192"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M103"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-103: Pahlavik, Illus. in Frye, Heritage of Iran, fig.46"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M103"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10194"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M104"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-104: Pahlavik. Unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M104"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10196"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M105"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-105: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M105"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10198"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M106"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-106: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M106"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10200"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M107"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-107: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M107"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10202"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M108"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-108: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M108"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10204"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M109"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-109: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M109"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10206"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M110"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-110: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M110"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10208"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M111"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-111: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M111"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10210"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M112"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-112: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M112"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10212"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M113"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-113: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M113"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10214"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M114"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-114: Parsik. Illus. in Frye, Heritage of Iran, fig.47"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M114"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10216"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M115"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-115: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M115"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10218"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M116"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-116: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M116"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10220"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M117"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-117: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M117"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10222"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M118"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-118: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M118"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10224"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M119"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-119: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M119"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10226"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M120"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-120: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M120"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10228"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M121"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-121: Parsik, unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M121"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10230"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M122"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-122: Pahlavik. Paikuli, p.139"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M122"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10232"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M123"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-123: Pahlavik. Unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M123"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10234"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M124"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-124: Pahlavik. Unpublished"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M124"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10236"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M125"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-125: Parsik, unpublished (?)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M125"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10238"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M126"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-126: Parsik or Pahlavik"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M126"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10240"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M127"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-127: Parsik"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M127"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10242"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M128"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-128: Parsik"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M128"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10244"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M129"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-129: Pahlavik"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M129"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10246"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M130"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-130: Pahlavik"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M130"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10248"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M131"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-131: Pahlavik"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M131"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10250"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M132"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-132: Parsik"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M132"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref10252"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M133"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-133: Persepolis, Tachara (the top 12 lines)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M133"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25391"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M013"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C'.1, Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M013"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25392"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M013a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C'.1 (duplicate copy), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M013a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25393"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M014"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C'.2, Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M014"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25394"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M014a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C'.2 (duplicate copy), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M014a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25395"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M020"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C'.13, Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M020"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25396"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M020a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C'.13 (duplicate copy), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M020a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25397"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M023"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze D'.8, Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M023"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25398"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M023a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze D'.8 (duplicate copy), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M023a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25399"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M025"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze D'.15, Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M025"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25400"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M025a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze D'.15 (duplicate copy), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M025a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25401"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M034"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F'.8, Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M034"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25402"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M034a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F'.8 (duplicate copy), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M034a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25403"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M036"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F'.12, Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M036"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25404"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M036a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F'.12 (duplicate copy), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M036a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25405"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M044"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze A.2, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M044"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25406"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M044a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze A.2 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M044a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25407"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M045"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze A.4, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M045"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25408"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M045a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze A.4 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M045a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25409"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M047"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze A.9, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M047"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25410"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M047a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze A.9 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M047a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25411"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M049"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze A.12, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M049"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25412"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M049a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze A.12 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M049a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25413"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M050"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.2, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M050"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25414"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M050a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.2 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M050a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25415"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M052"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.4, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M052"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25416"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M052a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.4 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M052a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25417"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M055"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.7, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M055"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25418"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M055a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.7 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M055a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25419"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M058"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.10, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M058"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25420"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M058a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.10 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M058a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25421"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M059"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.11, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M059"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25422"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M059a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze B.11 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M059a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25423"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M062"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C.2, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M062"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25424"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M062a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C.2 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M062a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25425"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M064"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C.4, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M064"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25426"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M064a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C.4 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M064a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25427"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M065"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C.9, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M065"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25428"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M065a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze C.9 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M065a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25429"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M071"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze D.15, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M071"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25430"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M071a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze D.15 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M071a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25431"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M072"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze E.3, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M072"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25432"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M072a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze E.3 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M072a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25433"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M080"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F.5, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M080"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25434"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M080a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F.5 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M080a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25435"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M081"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F.6, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M081"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25436"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M081a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F.6 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M081a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25437"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M083"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F.12, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M083"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25438"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M083a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze F.12 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M083a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25439"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M091"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.5, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M091"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25440"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M091a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.5 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M091a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25441"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M092"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.6, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M092"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25442"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M092a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.6 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M092a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25443"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M093"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.7, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M093"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25444"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M093a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.7 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M093a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25445"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M096"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.15, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M096"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25446"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M095a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.11 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M095a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25447"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M095"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.11, Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M095"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25448"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M096a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze H.15 (duplicate copy), Middle Persian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M096a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25449"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M098"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze (unpublished), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M098"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25450"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M099"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Sassanian Inscription of Paikuli (Iraq): Squeeze (unpublished), Parthian Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M099"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref27007"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M134"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-134: The Sassanian Inscription of Paikuli (Iraq): Squeeze (unpublished), Unidentified Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M134"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref27008"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M134a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-134a: The Sassanian Inscription of Paikuli (Iraq): Squeeze (unpublished), Unidentified Version"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M134a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30064"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M096a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-96a: Parsik, publ. Paikuli. p.115"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M096a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30065"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M095a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-95a: Parsik, publ. Paikuli p.113"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M095a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30066"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M093a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-93a: Parsik, publ. Paikuli p.109"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M093a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30067"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M092a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-92a: Parsik, publ. Paikuli p.107"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M092a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30068"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M091a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-91a: Parsik, publ. Paikuli p. 105"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M091a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30069"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M083a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-83a: Parsik, publ. Paikuli. p.89"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M083a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30070"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M081a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-81a: Parsik, publ. Paikuli p.85"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M081a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30071"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M080a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-80a: Parsik, publ. Paikuli p.83"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M080a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30072"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M072a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-72a: Parsik, publ.Paikuli p.67"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M072a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30073"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M071a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-71a: Parsik, publ. Paikuli. p.66"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M071a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30074"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M065a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-65a: Parsik, publ. Paikuli. p.54"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M065a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30075"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M064a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-64a: Parsik, publ. Paikuli. p.52"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M064a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30076"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M062a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-62a: Parsik, publ. Paikuli. p.48"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M062a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30077"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M059a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-59a: Parsik, publ. Paikuli. p.42"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M059a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref30078"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M058a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-58a: Parsik, publ. Paikuli. p.40"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M058a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9988"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M001"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-1: Pahlavik, publ. Paikuli. p.117"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M001"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9990"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M002"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-2: Pahlavik, publ. Paikuli. p.119"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M002"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9992"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M003"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-3: Pahlavik, publ. Paikuli. p.121"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M003"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9994"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M004"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-4: Pahlavik, publ. Paikuli. p.123"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M004"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9996"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M005"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-5: Pahlavik, publ. Paikuli. p.125"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M005"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9998"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref9987"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 06.M006"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "M-6: Pahlavik, publ. Paikuli. p.127"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_06.M006"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Middle Persian Inscriptions"
+        }
+      }
+    ]
+  }
+}

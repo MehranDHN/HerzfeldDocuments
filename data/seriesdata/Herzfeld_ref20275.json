@@ -1,0 +1,5364 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "parent",
+      "unitid",
+      "name",
+      "accessurl",
+      "parentlabel"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20277"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.001"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Prints of illustrations in vol.II, Die Ausgrabungen von Samarra, \"Die Keramik\" von F. Sarre, insofar as found in the Archive. These are supplemented by unpublished photos of ceramics. The inventory numbers were noted on the backs of the prints and refer to the Expedition Inventory of Finds in the Archive (Archive No.S-1). The negative numbers proceeded by an \"S\", also noted on the backs, refer to a Samarra listing. Plate numbers refer to the printed text."
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.001"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20278"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.114"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Include prints of illustrations in vol.VI, Die Ausgrabungen von Samarra, \"Die Geschichte der Stadt Samarra.\" Plate numbers are those given in the printed text. Also included are related panoramic views, unpublished."
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.114"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20279"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.146"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Papyrus, with Arabic inscription"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.146"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20280"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.148"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Fragments of marble, inscribed"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.148"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20281"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.150"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Inscription of the Caliph al-Mustansir on the Jisr Harbah"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.150"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20282"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.159"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Linen with Arabic inscription"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.159"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20283"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.160"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Air photos of Samarra, Muhedschir and Istabulat"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.160"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20284"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.164"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Views of surroundings of Samarra, some identified"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.164"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25169"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.001"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Unglazed Ceramic Vessels, Found in al-Quraina, House VI, Northeast Room"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.001"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25170"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.002"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Unglazed Ceramic Vessels, Found in Private House"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.002"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25171"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.003"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Prehistoric Artifact, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.003"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25172"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.004"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Unglazed Ceramic Vessels, Found in Private House"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.004"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25173"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.005"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Unglazed Ceramic Vessels, Found in Private House and al-Kura"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.005"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25174"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.006"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Unglazed Ceramic Vessels, Found in Private House and al-Kura"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.006"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25175"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.007"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Stoneware, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.007"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25176"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.009"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Unglazed Ceramic Vessel, Found in the Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.009"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25177"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.010"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Glazed Ceramic Vessels, Found in al-Quraina, House II, III, and IV"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.010"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25178"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.011"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Prehistoric Vessels, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.011"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25179"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.012"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Vessel Inscribed with Signature Name, in Kufic Script"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.012"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25180"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.013"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Earthenwares with Gold Lustered Glaze"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.013"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25181"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.014"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Gold Luster Bowl"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.014"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25182"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.015"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Gold Luster Bowl"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.015"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25183"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.016"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Small Cube-Shaped Tabouret"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.016"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25184"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.017"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of White-Glazed Jar with Gold Luster Painting"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.017"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25185"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.018"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of White-Glazed Jar with Gold Luster Painting"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.018"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25186"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.019"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of White-Glazed Jar with Luster Painting, Found in the Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.019"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25187"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.020"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of White-Glazed Jar with Luster Painting in Various Colors, Found in the Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.020"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25188"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.021"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Tiles with Luster Painting over a White Glaze, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.021"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25189"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.022"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Tiles with Luster Painting over a White Glaze, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.022"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25190"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.023"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Square Tiles with Luster Painting, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.023"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25191"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.024"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Square Tiles with Luster Painting, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.024"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25192"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.025"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Square Tiles with Luster Painting, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.025"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25193"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.026"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.026"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25194"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.027"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of East Asian White Porcelain Vessel"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.027"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25195"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.028"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.028"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25196"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.029"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Blue Glazed Ceramic Pots, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.029"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25197"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.030"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Ceramic Bowl Inscribed with Artist Signature"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.030"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25198"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.031"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.031"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25199"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.032"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.032"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25200"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.035"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.035"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25201"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.033"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of East Asian Stonewares"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.033"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25202"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.034"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of East Asian Stonewares"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.034"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25203"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.036"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of East Asian Stonewares, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.036"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25204"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.037"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.037"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25205"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.038"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.038"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25206"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.039"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.039"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25207"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.040"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.040"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25208"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.041"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Ceramic Jar, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.041"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25209"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.042"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Ceramic Bowl, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.042"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25210"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.043"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of East Asian and Mesopotamian Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.043"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25211"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.044"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Mesopotamian Copy of East Asian Ceramic Vessel, Found in al-Quraina, House II"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.044"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25212"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.045"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Mesopotamian Copy of East Asian Ceramic Vessel, Found in the Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.045"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25213"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.046"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Mesopotamian Copy of East Asian Ceramic Vessel"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.046"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25214"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.047"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Mesopotamian Copy of East Asian Ceramic Vessel"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.047"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25215"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.048"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Small Ceramic Cups, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.048"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25216"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.049"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessel with Decorative Palmette, Found in West of Sur Isa, Unidentified House"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.049"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25217"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.050"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Imitation of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.050"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25218"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.051"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Imitation of East Asian Stoneware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.051"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25219"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.052"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.052"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25220"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.053"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Unglazed Ceramic Vessels, Found in al-Quraina, House II and IV"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.053"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25221"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.054"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Unglazed Ceramic Vessels, Found in the Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.054"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25222"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.055"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Plates, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.055"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25223"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.056"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Tiles with Luster Painting over a White Glaze, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.056"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25224"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.057"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Decorative Motifs and Various Inscriptions in Naskhi Style"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.057"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25225"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.058"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramics with decorative motifs, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah) as well as the Modern City"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.058"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25226"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.059"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Decorative Motifs, Found in the Qasr al-Ashiq and in al-Quraina, House VI, West Room"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.059"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25227"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.060"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Decorative Motifs, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.060"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25228"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.061"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Unglazed Ceramic Vessels, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.061"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25229"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.062"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Small Ceramic Vessel with Broken Hand, Found in al-Quraina, House II"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.062"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25230"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.063"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Incised Motifs, Found in al-Quraina, House II and Bath I"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.063"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25231"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.064"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Decorative Motifs"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.064"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25232"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.065"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Ceramic Vessel, Found in West of Sur Isa, Unidentified House"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.065"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25233"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.066"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Cursive Script and Round Stamps, Found in al-Quraina, House II and Bath I"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.066"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25234"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.067"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Round Stamps, Found in al-Quraina, House II and Bath I"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.067"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25235"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.068"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Cursive Script and Round Stamps, Found in al-Quraina, House II and Bath I"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.068"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25236"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.069"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessel, Found in al-Quraina, House II, Room 13"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.069"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25237"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.070"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Unglazed Ceramic Vessels, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.070"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25238"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.071"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Large Fragments of Ceramic Vessels, Found in al-Quraina, House II, House III and House V"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.071"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25239"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.072"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Tiles, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.072"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25240"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.073"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Luster Painting, Found in Private Houses"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.073"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25241"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.074"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Luster Painting, Found in Private Houses"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.074"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25242"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.075"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in Jubairiyya, House XVII"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.075"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25243"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.076"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Chinese White Porcelain and Celadon Ware"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.076"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25244"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.077"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessel, Found in al-Quraina, House II, Room 29, and al-Qatun, House XI"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.077"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25245"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.078"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.078"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25246"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.079"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in al-Kura"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.079"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25247"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.080"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.080"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25248"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.081"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Ceramic Vessels, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.081"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25249"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.082"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Eleven Small Ceramic Vessels, Found in al-Kura"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.082"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25250"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.083"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.083"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25251"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.084"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.084"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25252"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.085"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.085"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25253"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.086"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessel, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.086"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25254"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.087"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in al-Kura, and West of Sur Isa, House XIII"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.087"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25255"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.088"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in al-Quraina, House III and House VI"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.088"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25256"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.089"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessel"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.089"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25257"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.090"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.090"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25258"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.092"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessel, Found in al-Quraina, House VII"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.092"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25259"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.093"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Ceramic Vessel, Found in the Pre-Islamic Cemetery Located at Shabbat al-Hawa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.093"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25260"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.091"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.091"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25261"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.094"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.094"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25262"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.095"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.095"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25263"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.096"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.096"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25264"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.097"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.097"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25265"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.100"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.100"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25266"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.101"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.101"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25267"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.102"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.102"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25268"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.103"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.103"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25269"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.106"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels with Decorative Motifs"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.106"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25270"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.107"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.107"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25271"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.108"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.108"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25272"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.109"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.109"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25273"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.110"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Tiles, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.110"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25274"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.111"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Tiles, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.111"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25275"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.113"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Tiles with Decorative Motifs"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.113"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25276"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.112"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ceramic Tiles, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.112"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25277"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.114"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): High Water, View from al-Qatun towards the North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.114"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25278"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.115"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): High Water, View from West Bank towards al-Nasriyya and Qatun"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.115"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25279"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.116"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View from al-Quraina towards the North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.116"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25280"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.117"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View from the Shariʿat al-Nasriyya towards al-Qalʿa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.117"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25281"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.118"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Southwest View of the Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.118"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25282"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.119"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of the Qasr al-Ashiq towards the North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.119"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25283"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.120"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of the Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.120"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25284"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.121"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of the Entrance to the Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.121"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25285"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.122"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Southwest View of the City Walls"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.122"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25286"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.123"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of the Great Mosque of al-Mutawakkil"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.123"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25287"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.124"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of the Great Mosque of al-Mutawakkil"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.124"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25288"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.125"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Inside View of the Great Mosque of al-Mutawakkil"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.125"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25289"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.126"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Vicinity of Balad: View of the Tigris Riverbanks"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.126"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25290"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.127"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Ibrah, People Waiting for the Ferryboat"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.127"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25291"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.128"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Men on Horse Crossing a River"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.128"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25292"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.130"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Natural Landscape around Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.130"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25293"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.131"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Natural Landscape around Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.131"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25294"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.132"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Agricultural Scene"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.132"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25295"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.133"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): DaʿIrah, Ferryboat on the River"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.133"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25296"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.134"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of the Ruins"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.134"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25297"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.135"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: Herzfeld's Camp Setting"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.135"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25298"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.136"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Northwest View of the City Walls"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.136"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25299"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.137"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Tell Mandjur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.137"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25300"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.138"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): The Pre-Islamic Cemetery Located at Shabbat al-Hawa: View towards the Great Mosque of al-Mutawakkil and the Old City"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.138"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25301"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.139"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): The Pre-Islamic Cemetery Located at Shabbat al-Hawa: View towards the Old City"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.139"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25302"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.140"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View from the Shariʿat al-Nasriyya towards al-Qalʿa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.140"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25303"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.141"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of the Shariʿat al-Quwair"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.141"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25304"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.142"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Qatun: View towards the Great Mosque of al-Mutawakkil"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.142"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25305"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.143"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of the Southwest Corner of the Great Mosque of al-Mutawakkil, towards the Old City"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.143"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25306"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.144"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of al-Quraina, Located Southwest of the Old City"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.144"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25308"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.146"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Northwest Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.146"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25309"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.147"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Large Papyrus, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.147"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25310"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.148"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment Inscribed with Signature Names, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.148"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25311"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.149"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment Inscribed with Signature Names, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.149"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25312"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.150"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, South Side, Section 1"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.150"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25313"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.151"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, South Side, Section 2"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.151"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25314"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.152"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, South Side, Section 3"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.152"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25315"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.153"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, South Side, Section 3"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.153"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25316"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.154"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, North Side, Section 1"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.154"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25317"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.155"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, North Side, Section 2"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.155"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25318"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.156"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, North Side, Section 3"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.156"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25319"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.157"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, North Side, Section 4"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.157"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25320"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.158"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Harba Bridge, Known for its Inscriptions Praising the Caliph al-Mustansir, North Side, Section 5"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.158"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25321"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.159"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Papyrus, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.159"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25322"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.160"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Airplane Photographs of Samarra"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.160"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25323"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.161"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Airplane Photographs of Muhedschir"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.161"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25324"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.162"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Airplane Photographs of Palace and Cantonment at al-Istabulat"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.162"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25325"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.163"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Airplane Photographs of Palace and Cantonment at al-Istabulat"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.163"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25326"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.164"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Quraina, Opposite of al-Qalʿah: View of Tigris River during the Month of April"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.164"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25327"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.165"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Quraina, Opposite of al-Qalʿah: View of Tigris River during the Month of March"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.165"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25328"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.166"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Tigris River at Shariʿat al-Nasriyya"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.166"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25329"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.167"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Agricultural Fields on Dry River Bed, below the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.167"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25330"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.168"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Agricultural Fields on Dry River Bed, below the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.168"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25331"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.169"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Rock Formation, North of the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.169"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25332"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.170"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Melon Plantation on the Riverbanks"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.170"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25333"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.171"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Herzfeld's Camp on the al-ʿAdaim Dry River Bed"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.171"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25334"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.172"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Herzfeld's Camp on the al-ʿAdaim Dry River Bed"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.172"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25335"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.173"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Rock Cliffs along the al-ʿAdaim Dry River Bed"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.173"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25336"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.174"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-ʿAdaim Dry River lying along Jebel Hamrin Hilly Ridge"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.174"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25337"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.175"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-ʿAdaim Dry River Flowing through the Jebel Hamrin Hilly Ridge"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.175"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25338"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.176"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-ʿAdaim River Flowing through the Jebel Hamrin Hilly Ridge"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.176"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25339"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.177"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-ʿAdaim River Flowing through the Jebel Hamrin Hilly Ridge"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.177"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25340"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.178"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-ʿAdaim River lying along the Jebel Hamrin Hilly Ridge"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.178"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25341"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.179"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-ʿAdaim Dry River Bed along Jebel Hamrin Hilly Ridge"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.179"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25342"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.180"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Natural Landscape in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.180"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25343"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.181"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Vernacular Architecture in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.181"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25344"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.182"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Natural Landscape in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.182"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25345"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.183"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Vernacular Architecture in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.183"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25346"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.184"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Vernacular Architecture in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.184"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25347"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.185"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Islamic Cemetery in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.185"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25348"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.188"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Natural Landscape in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.188"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25349"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.189"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Natural Landscape in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.189"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25350"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.186"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Bab al-Amma and Remains of Monumental Steps Leading Down to the Square Ornamental Pool"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.186"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25351"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.187"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View taken from Great Mosque of al-Mutawakkil and its Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.187"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25752"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20275"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.20.008"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Stoneware, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.20.008"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 20: Samarra: Wandschmuck and Geschichte der Stadt Samarra"
+        }
+      }
+    ]
+  }
+}

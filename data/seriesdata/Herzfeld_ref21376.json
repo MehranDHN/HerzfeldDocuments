@@ -1,0 +1,240 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "parent",
+      "unitid",
+      "name",
+      "accessurl",
+      "parentlabel"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21461"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.27.054"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Taq-i Girra"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.27.054"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 27: \"Parthian and early Sasanian Sculptures\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21463"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.27.056"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Bishapur. Investiture. Photo, Stolze. Andrae, Perse II"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.27.056"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 27: \"Parthian and early Sasanian Sculptures\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21464"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.27.057"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Bishapur. Shāpūr and Arabs. Photo, Stolze"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.27.057"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 27: \"Parthian and early Sasanian Sculptures\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21465"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.27.058"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Naqsh-i Rustam. Shāpūr I investiture. Photo, Stolze"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.27.058"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 27: \"Parthian and early Sasanian Sculptures\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21466"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.27.059"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Bishapur. Shāpūr's triumph. Photo, Stolze"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.27.059"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 27: \"Parthian and early Sasanian Sculptures\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21467"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.27.060"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Bishapur. Detail of preceeding. Photo, Stolze"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.27.060"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 27: \"Parthian and early Sasanian Sculptures\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21471"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.27.064"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Taq-i Bustan. Deer hunt"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.27.064"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 27: \"Parthian and early Sasanian Sculptures\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21489"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref21376"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.27.080"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Naqsh-i Rajab. Dignitaries"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.27.080"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 27: \"Parthian and early Sasanian Sculptures\""
+        }
+      }
+    ]
+  }
+}

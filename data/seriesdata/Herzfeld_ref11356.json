@@ -1,0 +1,156 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "parent",
+      "unitid",
+      "name",
+      "accessurl",
+      "parentlabel"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11515"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11356"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.02.078"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Pasargadae, tomb of Cyrus. Closer view of preceeding"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.02.078"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 2: \"Pre-Achaemenian, Pasargadae, Naqsh-i Rustam, Istakhr\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11523"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11356"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.02.082"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Pasargadae, tomb of Cyrus. Doorway from outside"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.02.082"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 2: \"Pre-Achaemenian, Pasargadae, Naqsh-i Rustam, Istakhr\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11567"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11356"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.02.104"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Pasargadae, building S. SE corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.02.104"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 2: \"Pre-Achaemenian, Pasargadae, Naqsh-i Rustam, Istakhr\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11684"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11356"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.02.162"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Pasargadae. Another view"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.02.162"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 2: \"Pre-Achaemenian, Pasargadae, Naqsh-i Rustam, Istakhr\""
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11686"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref11356"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.02.163"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Pasargadae. Another view"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.02.163"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 2: \"Pre-Achaemenian, Pasargadae, Naqsh-i Rustam, Istakhr\""
+        }
+      }
+    ]
+  }
+}

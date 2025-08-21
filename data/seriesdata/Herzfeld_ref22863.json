@@ -1,0 +1,44 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "parent",
+      "unitid",
+      "name",
+      "accessurl",
+      "parentlabel"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref22967"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref22863"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.6 04.PF.31.078"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Unidentified mosque"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.31.078"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 31: Miscellaneous photographs: Mesopotamia (a few Syria)"
+        }
+      }
+    ]
+  }
+}

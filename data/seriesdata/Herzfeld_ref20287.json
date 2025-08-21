@@ -1,0 +1,5952 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "parent",
+      "unitid",
+      "name",
+      "accessurl",
+      "parentlabel"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20289"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.002"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Mostly ruins and finds at Bait al-Khalifa"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.002"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20290"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.146"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Small objects of metal, shell, glass, stucco, stone and wood"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.146"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25352"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.002"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Bab al-Amma and Remains of Monumental Steps Leading Down to the Square Ornamental Pool"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.002"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25353"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.001"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.001"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25354"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.003"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Bab al-Nasriyya"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.003"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25355"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.004"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Bab al-Amma and Remains of Monumental Steps Leading Down to the Square Ornamental Pool"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.004"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25356"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.005"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): Southwest View of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.005"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25357"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.006"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): Northeast View of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.006"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25358"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.007"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): Southeast View of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.007"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25359"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.009"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): East View of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.009"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25360"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.010"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of North Side of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.010"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25361"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.011"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): Inside View of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.011"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25362"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.012"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): Inside View of South Side of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.012"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25363"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.013"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): Inside View of Center Hall of Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.013"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25364"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.014"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View of the Five Halls Situated after the Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.014"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25365"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.015"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View of the Five Halls Situated after the Bab al-Amma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.015"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25366"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.016"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Five Halls Situated after the Bab al-ʿAmma: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.016"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25367"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.017"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Five Halls Situated after the Bab al-ʿAmma: View of Wall Ornamentation and Water Drains"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.017"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25368"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.018"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Five Halls Situated after the Bab al-ʿAmma: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.018"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25369"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.019"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Five Halls Situated after the Bab al-ʿAmma: View of Wall Ornamentation in Water Pipe Room"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.019"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25370"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.021"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of the Rotundabau"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.021"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25371"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.022"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Five Halls Situated after the Bab al-ʿAmma: View of Water Pipe System"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.022"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25372"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.023"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Arab Foreman with Water Pipe, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Five Halls Situated after the Bab al-ʿAmma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.023"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25373"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.026"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of the Rotundabau"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.026"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25374"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.027"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of a Basin"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.027"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25375"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.028"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View towards the Room with Marble Columns"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.028"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25376"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.029"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Arched Passage under East Entrance"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.029"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25377"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.030"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Water Pipe Inscribed with Graffiti"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.030"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25378"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.031"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Water Pipes in Room with Marble Columns"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.031"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25379"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.032"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, West of Throne Hall: Fragments of Alabaster Tiles with Marble Insert"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.032"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25380"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.033"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), North Pavilion: Fragments of Marble Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.033"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25381"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.034"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: Base of Column"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.034"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25382"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.035"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-hall Block, Courtyard with Basin and Bath: Painted Wood Soffit"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.035"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25383"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.036"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: Wood Panels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.036"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25384"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.037"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: Carved Wood around Lancet Window"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.037"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25385"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.038"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, West Side of T-Hall: View looking East"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.038"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25386"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.039"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Southeast Side of T-Hall: View looking West"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.039"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25387"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.040"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of the Central Axis of the Square Reception-Hall Block, Looking East"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.040"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25388"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.041"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of the Central Axis of the Square Reception-Hall Block, Looking West"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.041"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25389"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.042"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, West Side of T-Hall: View of South Wing"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.042"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25390"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.043"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View of Lateral Wing of T-Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.043"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25451"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.044"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Lateral Wing of T-Hall: View of Marble Imprints with Artist Signature"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.044"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25452"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.045"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, West Side of T-Hall: View of Wall Ornamentation in South Wing"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.045"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25453"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.046"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, East Side of T-Hall: View of Wall Imprints and Floor Covering"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.046"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25454"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.047"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Central Axis of the Square Reception-Hall Block, Looking East"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.047"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25455"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.048"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View of T-Hall, Looking Southeast"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.048"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25456"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.049"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View of T-Hall, Looking South"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.049"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25457"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.050"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Dome Chamber with Cruciform Plan: View of Room in Southwest Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.050"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25458"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.051"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Dome Chamber with Cruciform Plan: View of Room in Northeast Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.051"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25459"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.052"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Dome Chamber with Cruciform Plan: View of Marble Imprints in Southwest Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.052"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25460"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.053"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Dome Chamber with Cruciform Plan: View of Marble Imprints in Southwest Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.053"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25461"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.054"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View of Foundations in T-Hall, looking North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.054"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25462"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.055"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View of Foundations in T-Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.055"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25463"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.057"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Trench with Earthenware Jar"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.057"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25464"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.058"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.058"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25465"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.059"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.059"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25466"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.060"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.060"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25467"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.061"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.061"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25468"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.062"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Unidentified Location: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.062"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25469"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.063"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Animal Design"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.063"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25470"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.064"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Two Marble Fragments Collected by Henri viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.064"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25471"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.065"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Purchased in the Old City"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.065"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25472"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.066"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Wood Knobs, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block and Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.066"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25473"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.067"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Wood Capital and Painted Round Window"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.067"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25474"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.068"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Wood Panel with Painted Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.068"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25475"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.069"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Wood Capital and Painted Round Window"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.069"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25476"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.070"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Metalwork, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.070"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25477"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.071"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Bronze Nails, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.071"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25478"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.072"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Embroidery Works, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.072"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25479"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.073"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.073"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25480"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.074"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.074"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25481"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.075"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Rooms East of Courtyard"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.075"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25482"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.076"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block: View of Dome Chamber with Cruciform Plan"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.076"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25483"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.077"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.077"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25484"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.078"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Wall Ornamentation in Northeast Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.078"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25485"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.079"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Wall Ornamentation in Northeast Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.079"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25486"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.081"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.081"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25487"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.082"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Living Quarters"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.082"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25488"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.083"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), South of Great Courtyard (Great Esplanade)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.083"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25489"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.084"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.084"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25490"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.086"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Floor Covering, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.086"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25491"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.085"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Alabaster Fragment, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.085"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25492"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.087"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment, Possibly Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.087"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25493"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.088"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Red Brownish Tile Work (Kashi), Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.088"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25494"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.089"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Tile Fragments, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.089"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25495"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.090"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Underground Passage"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.090"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25496"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.091a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Stepped Crenellation Made of Wood, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.091a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25497"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.091b"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Stepped Crenellation Made of Wood, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.091b"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25498"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.092"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Birkat al-Siba, Looking Northwest"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.092"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25499"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.093"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Birkat al-Siba, Looking East"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.093"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25500"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.094"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Great Courtyard (Great Esplanade), Looking East"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.094"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25501"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.095"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Northern Room, Looking West"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.095"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25502"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.096"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Vaulted Room, Looking North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.096"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25503"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.097"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: Inside View of Vaulted Room"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.097"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25504"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.098"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Vaulted Room"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.098"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25505"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.099"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Tile with Luster Painting over a White Glaze (Kashi), Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.099"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25506"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.100"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Mosaic Tiles, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.100"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25507"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.102"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Mosaic Tiles, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.102"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25508"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.103"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Mother of Pearl and Glass, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.103"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25509"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.104"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Wall towards the Great Courtyard"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.104"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25510"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.105"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Wall towards the Great Courtyard"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.105"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25511"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.106"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Front Hall, Looking West"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.106"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25512"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.107"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Front Hall, Looking North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.107"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25513"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.108"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Circular Hall, Looking East"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.108"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25514"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.109"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Mother of Pearl and Glass, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.109"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25515"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.110"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Mother of Pearl and Glass, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.110"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25516"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.111"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau, Room West of Front Hall: View of a Niche"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.111"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25517"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.112"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau, Inside the Front Hall Looking West: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.112"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25518"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.113"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau, Inside the Front Hall Looking West: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.113"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25519"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.114"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade): View of Northeast Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.114"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25520"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.115"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade): View of Wall Ornamentation in Northeast Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.115"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25521"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.116"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Niche behind Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.116"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25522"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.117"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Niche behind Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.117"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25523"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.118"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade), View of Wall Ornamentation in Northeast Corner"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.118"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25524"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.119"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Stepped Crenellations, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.119"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25525"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.120"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Stepped Crenellations, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.120"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25526"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.121"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade), Northeast Corner: View of Canal system and wall Foundations"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.121"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25527"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.123"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade), South Wall: View of Entrance Gate, Looking Northwest"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.123"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25528"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.124"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade), South Wall: View of Entrance Gate, Looking Southeast"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.124"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25529"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.125"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade), South Wall: View of East Side Entrance Gate"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.125"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25530"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.126"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade), South Wall: View of Entrance Gate, Looking North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.126"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25531"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.127"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Great Courtyard (Great Esplanade), South Wall: View of East Side of Entrance Gate, Looking North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.127"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25532"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.128"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Fountain Paving"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.128"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25533"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.129"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Underground Passage"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.129"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25534"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.130"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Area next to Large Pit"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.130"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25535"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.131"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Southern Entrance to the Stairway"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.131"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25536"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.132"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Rooms on the Periphery of the Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.132"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25537"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.133"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Southern Entrance to the Stairway"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.133"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25538"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.134"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab: View of Stairway to Underground Passage"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.134"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25539"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.135"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Large Serdab?: View of Underground Passage"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.135"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25540"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.136"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of Spectators' Lodge at the Polo Maydan, Looking North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.136"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25541"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.137"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab (Hawiyat al-Sibaʿ): View of West Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.137"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25542"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.138"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab (Hawiyat al-Sibaʿ): View of West and North Walls, Looking North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.138"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25543"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.139"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab (Hawiyat al-Sibaʿ): View of South Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.139"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25544"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.140"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab (Hawiyat al-Sibaʿ): Aerial View of the Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.140"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25545"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.141"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah): View of North Pavilion"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.141"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25546"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.142"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), North Pavilion: View of T-shaped Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.142"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25547"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.143"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Unidentified Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.143"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25548"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.144"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Two Men on Horse"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.144"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25549"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.145"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Unidentified Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.145"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25550"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.146"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Artefacts, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.146"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25551"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.147"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Artefacts, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.147"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25552"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.148"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Vegetal Ornamentation Made of Lead Glass, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.148"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25553"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.149"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Bronze Nails, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.149"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25554"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.150"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Alabaster Artefact"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.150"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25555"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.151"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Vessels with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.151"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25556"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.152"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Vessels with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.152"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25557"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.153"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Black Stone and Marble Vessels, Found in al-Kura and West of Sur ʿIsa, House XIII"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.153"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25558"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.154"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragmented Vessel with Incised Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.154"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25559"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.155"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Large Glass Plate, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.155"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25560"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.156"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Glass Bottle, Found in al-Quraina, House II, Room 29"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.156"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25561"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.157"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Painted Glass Plates"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.157"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25562"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.158"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragmented Vessel with Incised Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.158"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25563"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.159"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragmented Vessel with Incised Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.159"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25564"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.160"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Ordinary Glass Bottles"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.160"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25565"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.161"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Ordinary Glass Bottles, Found in al-Quraina, House III, House IV, and House VI"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.161"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25566"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.162"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Vessels and Artifacts"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.162"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25567"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.163"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Vessels with Incised Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.163"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25568"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.164"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Glass Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.164"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25569"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.165"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Glass Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.165"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25570"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.166"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Glass Vessels"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.166"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25571"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.167"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ordinary Glass Bottles"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.167"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25572"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.168"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Vegetal Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.168"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25573"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.169"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.169"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25574"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.170"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.170"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25575"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.171"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.171"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25576"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.172"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Horseshoe Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.172"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25577"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.173"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.173"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25578"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.174"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Black Marble Fragment"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.174"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25579"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.175"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.175"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25580"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.176"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Vegetal Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.176"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25581"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.177"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.177"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25582"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.178"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.178"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25583"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.180"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.180"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25584"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.179"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.179"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25585"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.181"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.181"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25586"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.182"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.182"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25587"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.183"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.183"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25588"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.184"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Horseshoe Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.184"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25589"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.185"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.185"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25590"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.186"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.186"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25592"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.188"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Excavated by Henri Viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.188"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25593"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.189"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.189"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25594"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.191"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Acquired in the Old City"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.191"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25595"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.190"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Red Brownish Tile Work (Kashi), Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.190"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25596"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.192"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragment with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.192"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25597"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.193"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.193"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25598"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.194"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Ornamentation, probably Excavated by Henri Viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.194"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25599"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.197"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Gipsum Ornamentation, probably Excavated by Henri Viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.197"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25600"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.195"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Ornamentation, probably Excavated by Henri Viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.195"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25601"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.196"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.196"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25602"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.198"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.198"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25603"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.199"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.199"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25604"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.200"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.200"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25605"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.201"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Painted Ornamentation, probably Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.201"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25606"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.202"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Painted Ornamentation, probably Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.202"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25607"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.203"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Painted Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.203"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25608"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.204"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.204"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25609"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.205"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.205"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25610"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.206"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Ornamentation, probably Excavated by Henri Viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.206"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25611"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.207"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.207"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25612"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.209"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wood Panels with Ornamentation, probably Excavated by Henri Viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.209"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25613"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.208"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panel with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.208"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25614"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.210"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Ornamentation, probably Excavated by Henri Viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.210"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25615"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.211"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Stucco Fragments from Wall Ornamentation, probably Excavated by Henri Viollet"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.211"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25616"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.212"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.212"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25617"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.213"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.213"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25618"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.214"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wood Panel with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.214"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25619"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.215"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wood Panel with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.215"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25620"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.218"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wood Panels with Ornamentation, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.218"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25621"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.216"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Knob Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.216"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25622"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20287"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.22.217"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Fragments with Knob Ornamentation, probably Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.6_04.22.217"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 22: Samarra: Paläste und Moscheen--I"
+        }
+      }
+    ]
+  }
+}
