@@ -1,0 +1,3040 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "parent",
+      "unitid",
+      "name",
+      "accessurl",
+      "parentlabel"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25941"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.001"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.001a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25942"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.002"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.002"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25943"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.003"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.003"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25944"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.004"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.004a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25945"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.005"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.005"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25946"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.006"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.006"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25947"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.007"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.007a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25948"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.008"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.008"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25949"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.009"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.009"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25950"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.010"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.010a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25951"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.011"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.011"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25952"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.012"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.012"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25953"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.013"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.013a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25954"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.014"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.014a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25955"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.015"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.015a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25956"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.016"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.016a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25957"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.017"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.017a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25958"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.018"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.018a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25959"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.019"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.019a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25960"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.020"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.020a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25961"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.021"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.021a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25962"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.022"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.022a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25963"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.023"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.023a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25964"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.024"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.024a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25965"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.025"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.025"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25966"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.026"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.026a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25967"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.027"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.027a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25968"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.028"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.028"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25969"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.029"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.029"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25970"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.030"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.030"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25971"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.031"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.031"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25972"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.032"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.032"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25973"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.033"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.033"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25974"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.034"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.034a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25975"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.035"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.035"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25976"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.036"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.036"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25977"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.037"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.037"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25978"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.038"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.038"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25980"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.040"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.040"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25981"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.044"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.044"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25982"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.041"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.041"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25983"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.042"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.042a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25984"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.043"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.043a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25985"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.045"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.045a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25986"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.046"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.046b"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25987"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.047"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.047a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25988"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.048"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.048"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25989"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.049"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.049"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25990"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.050"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.050a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25991"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.051"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.051a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25992"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.052"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.052a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25993"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.053"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.053a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25994"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.054"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.054"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25995"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.055"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.055"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25996"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.056"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.056"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25997"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.057"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.057"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25998"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.058"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.058"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25999"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.059"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.059"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26000"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.060"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.060"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26001"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.061"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.061"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26002"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.062"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Painted Earthenware Jar with Male Figure, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.062a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26003"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.063"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.063"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26004"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.064"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.064"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26005"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.065"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Painted Earthenware Jar, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.065a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26006"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.066"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.066a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26007"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.067"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.067a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26008"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.068"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.068a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26009"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.069"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.069"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26010"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.070"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.070"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26011"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.071"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.071a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26012"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.072"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.072"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26013"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.073"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.073"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26014"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.074"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.074"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26015"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.075"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Painted Earthenware Jar, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.075a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26016"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.076"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): West of Sur ʿIsa, House XIII, Room 12, View of Wall Decorated with Frieze of Birds"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.076"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26017"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.077"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.077"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26018"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.078"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.078"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26019"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.079"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from Jubairiyya, House XVI (Bartus House)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.079"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26020"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.080"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.080"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26021"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.081"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Painted Earthenware Jar, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.081a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26022"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.082"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Painted Earthenware Jar, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.082a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26023"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.083"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Earthenware Jar with Artist Signature, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.083"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26024"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.084"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Earthenware Jar with Artist Signature, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.084"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26025"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.085"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Earthenware Jar with Artist Signature, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.085a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26026"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.086"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Earthenware Jar with Ink Drawings and Artist Signature, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Throne Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.086a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26027"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.087"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.087"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26028"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.088"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of a Frieze with Camel Figure, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.088"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26029"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.089"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.089"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26030"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.090"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.090"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26031"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.091"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.091a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26032"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.092"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.092"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26033"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.093"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.093"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26034"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.094"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.094a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26035"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.095"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.095"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26036"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.096"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of a Frieze with Camel Figures, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.096"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26037"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.105"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): West of Sur Isa, House XIII, Room 12: View of Wall Decorated with Frieze of Birds"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.105"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26038"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.097"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.097"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26039"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.098"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, Probably from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.098"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26040"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.099"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.099"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26041"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.100"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, Probably from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.100"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26042"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.101"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.101"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26043"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.102"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, Probably from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.102"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26044"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.107"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.107"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26045"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.109"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall-Paintings, from al-Quraina, House I"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.109"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26046"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.108"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, from the Great Mosque of al-Mutawakkil"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.108"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26047"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.106"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings, Probably from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.106"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26048"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.103"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.103a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26049"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20285"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.21.104"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Wall-Paintings and Reconstructed Color Pattern, from the Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.21.104a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 21: Samarra: Malereien"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,5700 @@
+{
+  "head" : {
+    "vars" : [
+      "s",
+      "parent",
+      "unitid",
+      "name",
+      "accessurl",
+      "parentlabel"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20292"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.001"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Unidentified tombs"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.001"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20293"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.003"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Tomb of Saiyyid Muhammad near Balad"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.003"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20294"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.004"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "The Shrine and mosque in Samarra"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.004"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20295"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.021"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Shrine, Shaikh Muhammad abu'l-Hasan near Sumaikah"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.021"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20296"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.023"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Qubbat al-Sulaibiyyah"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.023"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20297"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.026"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Mutwakkiliyyah"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.026"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20298"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.027"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Qubbat al-Sulaibiyyah"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.027"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20299"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.032"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Mutawakkiliyyah"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.032"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20300"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.039"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Great Mosque and Malawiyyah"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.039"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20301"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.068"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "al'-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.068"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20302"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.086"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Mangur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.086"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20303"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.087"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Balkuwara"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.087"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20304"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.104"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Panorama: Tell al-'Alidj"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.104"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20305"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.110"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Qadisiyyah"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.110"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20306"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.111"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Balkuwara"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.111"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20307"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.126"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Panorama: Sulaibiyyah and 'Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.126"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20308"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.136"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "are not in the Album. They are miscellaneous photos of all ruins mentioned, plus some of Imam Dur (Nos. 175--182)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.136"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25753"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.001"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Anonymous Mausoleum in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.001"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25754"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.002"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Anonymous Mausoleum in Salah ad-Din Region"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.002"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25755"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.003"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balad, Mausoleum of Imam Muhammad ibn al-Naqi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.003"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25756"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.004"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Entrance Door of Shrine of Imam Al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.004"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25757"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.005"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Caliph Al-Nasir li-Din Allah's Inscription in the Serdab of the Shrine of Imam Al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.005"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25758"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.006"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.006"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25759"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.007"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Shrine of Imam al-Hadi and Imam al-Askari"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.007"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25760"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.008"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Damaged Dome of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.008"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25761"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.009"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Damaged Dome of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.009"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25762"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.010"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Golden Dome of Shrine of Imam al-Hadi and Imam al-Askari, from Courtyard of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.010"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25763"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.011"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Dome and Portal of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.011"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25764"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.012"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of the Domes of Shrine of Imam al-Hadi and Imam al-Askari, and of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.012"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25765"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.013"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: East View of the Domes of Shrine of Imam al-Hadi and Imam al-Askari, and of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.013"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25766"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.014"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.014"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25767"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.015"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of the Domes of Shrine of Imam al-Hadi and Imam al-Askari, and of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.015"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25768"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.016"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Golden Dome of Shrine of Imam al-Hadi and Imam al-Askari"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.016"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25769"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.018"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Golden Dome of Shrine of Imam al-Hadi and Imam al-Askari"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.018"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25770"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.017"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Golden Dome and Minarets of Shrine of Imam al-Hadi and Imam al-Askari"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.017"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25771"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.019"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Portal of Shrine of Imam al-Hadi and Imam al-Askari"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.019"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25772"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.020"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Shiite Shrine Complex: View of Entrance Door of Shrine of Imam al-Hadi and Imam al-Askari"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.020"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25773"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.021"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Tomb of Shaikh Muhammad abuʼl-Hasan at Sumaika"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.021"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25774"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.022"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Inside View of Tomb of Shaikh Muhammad abuʼl-Hasan at Sumaika"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.022"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25775"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.023"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qubbat al-Sulaibiyya: View from Inside the Octagonal Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.023"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25776"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.024"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qubbat al-Sulaibiyya: View of the Ambulatory on the South of the Octagonal Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.024"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25777"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.025"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qubbat al-Sulaibiyya: View of the Ambulatory on the South of the Octagonal Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.025"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25778"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.027"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qubbat al-Sulaibiyya: View through the Door on the East of the Octagonal Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.027"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25779"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.028"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qubbat al-Sulaibiyya: View through the Door on the North of the Octagonal Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.028"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25780"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.030"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qubbat al-Sulaibiyya: Southeast View of the Octagonal Building"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.030"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25781"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.029"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qubbat al-Sulaibiyya: View of the Three Burials"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.029"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25782"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.026"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of the Mihrab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.026"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25783"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.032"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Recessed Niche on Pillar"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.032"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25784"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.031"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of the Haram"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.031"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25785"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.033"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Recessed Niches and Three-Centered Arch of the Haram Facade"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.033"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25786"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.034"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): North View of Naves of Arcades of the Haram"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.034"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25787"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.035"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Courtyard Facade and Minaret"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.035"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25788"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.036"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Inner Courtyard Towards the Minaret"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.036"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25789"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.037"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Minaret and Inner Side of Courtyard Facade with Recessed Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.037"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25790"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.038"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): Panoramic View of Minaret and Mosque Structure, Looking West"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.038"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25791"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.039"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of the Three Central Aisles in front of the Mihrab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.039"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25792"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.040"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Spiraling Minaret (Malwiyya) and Exterior Wall with Blind Medallion"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.040"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25793"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.041"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Spiraling Minaret (Malwiyya) from the Mosque Courtyard"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.041"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25794"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.042a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble plate with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.042a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25795"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.042b"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Marble Capital"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.042b"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25796"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.042c"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Stone Architectural Element, Found in Great Mosque of al-Mutawakkil"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.042c"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25797"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.043"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Foundation Pits for Pillars in the Southeastern Prayer Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.043"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25798"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.044"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Rose-Coloured Marble Stone, Found in Great Mosque of al-Mutawakkil"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.044"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25799"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.045"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil, Octagonal Marble Column, Found in the Southeastern Corner of the Courtyard"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.045"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25800"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.046"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of the \"Triple Entrance\" on the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.046"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25803"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.049"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Central Gate of the \"Triple Entrance\" on the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.049"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25804"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.050"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Windows with Polylobed Arches from the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.050"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25805"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.051"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Windows with Polylobed Arches from the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.051"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25806"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.052"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Windows with Polylobed Arches from the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.052"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25807"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.053"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of the Mihrab, a Deep Rectangular Recess along the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.053"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25808"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.054"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Architectural Structure along the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.054"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25809"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.055"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Western Wall with the Three Gates Forming Main Entrances of the Mosque"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.055"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25810"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.056"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Western Wall with Large Gate Opening onto Prayer Hall, and Small Door Leading into a Corridor"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.056"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25811"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.057"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of East End of Southern Wall (Qibla Wall), Including Two Intervals between Tower-Buttresses"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.057"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25812"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.058"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Southernmost Intervals and Tower-Buttress of Eastern Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.058"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25815"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.062"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of West End of the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.062"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25816"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.063"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.063"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25817"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.064"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: Panoramic View of the Three Central Aisles in front of the Mihrab, Looking Towards the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.064"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25818"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.065"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: Panoramic View of the Southern Wall (Qibla Wall) and the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.065"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25819"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.066"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: Panoramic View Taken from the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.066"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25820"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.067"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of the Sounding Made at the Base of the Spiraling Minaret (Malwiyya) and at the Northern Wall of the Mosque"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.067"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25821"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.136"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Workers Excavating the Area in front of Mihrab and outside the Southern Wall (Qibla Wall), Looking towards the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.136"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25822"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.139"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil, View of Workers Excavating the Area in front of Mihrab and inside the Southern Wall (Qibla Wall), Looking towards the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.139"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25823"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.137"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of Small Doors and Tower-Buttress at the Corner of Northern and Western Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.137"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25824"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.138"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil, View of the Northern Wall and the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.138"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25825"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.140"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil, View of the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.140"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25826"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.141"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil, View of the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.141"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25827"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.142"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil, View of the Spiraling Minaret (Malwiyya)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.142"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25828"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.144"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Great Mosque of al-Mutawakkil: View of the Area in front of Mihrab and outside the Southern Wall (Qibla Wall)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.144"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25829"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.068"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Entrance on the Southern Wall of the Barrel-Vaulted Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.068"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25830"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.069"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Barrel-Vaulted Serdab from Above"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.069"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25831"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.070"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Second and Third Barrel-Vaulted Serdabs"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.070"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25832"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.071"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Entrance of Second Barrel-Vaulted Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.071"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25833"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.072"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Gipsum Fragments with Ornamentation, Found in Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.072"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25834"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.073"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Gipsum Fragment with Ornamentation, Found in Qasr al-Ashiq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.073"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25835"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.074"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Excavated Rooms in Central Area of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.074"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25836"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.075"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Dilapidated Tower in Northeastern Corner of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.075"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25837"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.076"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Dilapidated Tower in Southeastern Corner of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.076"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25838"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.077"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Southern Wall of the Palace, in Dilapidated Condition"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.077"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25839"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.078"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of North End of Western Wall of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.078"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25840"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.079"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of the Northern Wall, Taken from Inside the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.079"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25841"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.080"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of the Northern Wall of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.080"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25842"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.081"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Blind Niches on the West End of the Northern Facade"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.081"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25843"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.082"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Blind Niches on the West End of the Northern Facade"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.082"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25844"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.083"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of North End of Western Wall of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.083"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25845"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.084"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: Panoramic View of Northern and Western Wall of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.084"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25846"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.085"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: Panoramic View of Northern Wall of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.085"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25847"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.086"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of the Ruins"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.086"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25848"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.087"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of the Floor of Mosque I, Cleared of Layers of Sand and Dust"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.087"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25849"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.088"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Arab Worker Displaying Wood Fragments, Found in Balkuwara Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.088"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25850"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.089"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of the Floor of Mosque I, Cleared of Layers of Sand and Dust"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.089"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25851"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.090"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Mosque I: View of Roof-Support's Square Brick Foundation with Peg-Hole in the Base"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.090"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25852"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.091"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of Bath in Dilapidated Condition"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.091"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25853"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.092a"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragment of Wall or Ceiling Ornamentation, Found in Balkuwara Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.092a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25854"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.092b"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Bath: View of Domed Ceiling before Excavation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.092b"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25855"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.092c"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Ornamentation from Vaulted Ceiling, Found in Bath of Balkuwara Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.092c"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25856"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.092d"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Honeycomb Coffers of the Vaulted Ceiling, Found in Room 7 of Balkuwara Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.092d"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25857"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.110"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Fragments of Honeycomb Coffers of the Vaulted Ceiling, Found in Room 7 of Balkuwara Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.110"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25858"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.093"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Courtyard 28: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.093"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25859"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.094"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Room 23: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.094"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25860"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.095"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.095"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25861"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.096"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.096"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25862"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.097"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.097"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25863"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.098"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.098"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25864"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.099"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.099"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25865"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.100"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.100"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25866"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.101"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Vertical Timber-Frame Construction from the South Wall Facade"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.101"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25867"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.102"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.102"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25868"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.103"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace: View of the Great Iwan"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.103"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25869"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.104"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Panoramic View of Tall al-Aliq"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.104"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25870"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.105"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Octagon of Husn al-Qadisiyya: View of the Exterior Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.105"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25871"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.106"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Octagon of Husn al-Qadisiyya: View of the Exterior Wall under Layers of Sand"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.106"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25872"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.107"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Octagon of Husn al-Qadisiyya: View of the Exterior Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.107"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25873"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.108"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Octagon of Husn al-Qadisiyya: View of Casemate into the Exterior Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.108"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25874"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.109"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Octagon of Husn al-Qadisiyya: View of Vaulted Casemate in the Exterior Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.109"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25875"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.111"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Gate I: View of Buttress with Multiple Recesses"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.111"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25876"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.112"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Gate I: View of Buttress with Multiple Recesses"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.112"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25877"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.113"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Gate II: View of Whitewashed Walls"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.113"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25878"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.114"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Gate III: View of the Iwan with Western Wall Flanked by Pairs of Engaged Columns"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.114"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25879"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.115"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Gate II: View of the Gatehouse"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.115"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25880"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.116"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Unidentified Bath near Courtyard III: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.116"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25881"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.117"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.117"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25882"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.118"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.118"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25883"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.119"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.119"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25884"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.120"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.120"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25885"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.123"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Wood Fragment, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Entrance of Small Serdab"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.123"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25886"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.121"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.121"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25887"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.122"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan, View of Wood Beam with the Inscription \"al-amir al Muʿtazz bi-llah b. amir al-muʼminin\" Carved on One Side"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.122"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25888"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.124"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Three Wood Fragments, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.124"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25889"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.125"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Two Wood Fragments, Found in Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah)"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.125a"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25890"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.126"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Qubbat al-Sulaibiyya, in Dilapidated Condition"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.126"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25891"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.127"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Qubbat al-Sulaibiyya, Looking North"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.127"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25892"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.128"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Qubbat al-Sulaibiyya, Looking Northeast"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.128"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25893"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.129"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qubbat al-Sulaibiyya: View of North Wall of Inner Square Chamber"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.129"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25894"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.130"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Blind Niches on the West End of the Northern Fac̦ade"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.130"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25895"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.131"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of the Northern Wall of the Palace and its Projecting Gateway Structure"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.131"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25896"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.132"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of Inside Wall of the Northern Projecting Gateway Structure"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.132"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25897"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.133"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Qasr al-Ashiq: View of the Southeast End of Southern Wall of the Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.133"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25898"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.134"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Aerial View (Royal Air Force) of the Great Mosque of al-Mutawakkil and the Walled City of Samarra"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.134"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25899"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.135"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Aerial View (Royal Air Force) of the Shrine of Imam al-Hadi and Imam al-Askari, and of Ghaibat al-Mahdi"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.135"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25900"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.143"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque), View of Naves of Arcades, Looking West"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.143"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25901"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.145"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), View of Bab al-ʿAmma and Remains of Monumental Steps Leading Down to the Square Ornamental Pool"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.145"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25902"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.146"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), East View of Bab al-ʿAmma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.146"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25903"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.147"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, View of Second of the five halls situated after the Bab al-ʿAmma"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.147"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25904"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.148"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, View of Unidentified Room"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.148"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25905"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.149"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, View of Room Identified as a Harem"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.149"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25906"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.150"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Rooms East of Courtyard"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.150"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25907"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.151"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Underground Passage"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.151"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25908"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.152"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Circular Hall with Small Hexagonal Rooms"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.152"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25909"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.153"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Rotundabau: View of Small Hexagonal Rooms Adorning Circular Hall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.153"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25910"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.154"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Naves of Arcades of the Haram, Looking North Towards the Minaret"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.154"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25911"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.155"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View through the Arcades of the Haram"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.155"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25912"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.157"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Minaret and Northern Courtyard Fac̦ade with Recessed Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.157"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25913"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.158"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Minaret in Dilapidated Condition"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.158"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25914"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.159"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Minaret in Dilapidated Condition"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.159"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25915"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.160"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.160"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25916"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.161"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Balkuwara Palace, Great Iwan: View of Wall Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.161"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25917"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.162"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Squeeze of Wall Ornamentation, from the Great Iwan of Balkuwara Palace"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.162"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25918"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.156"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Congregational Mosque of Madinat al-Mutawakkiliyya (Abu Dulaf Mosque): View of Northeast Corner of the Courtyard with Recessed Niches in Facade"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.156"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25919"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.163"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.163"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25920"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.164"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Palace of the Caliph (Dar al-Khilafa, Jawsaq al-Khaqani, Bayt al-Khalifah), Square Reception-Hall Block, Room Identified as a Harem: View of Wall Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.164"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25921"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.165"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Quraina, House II, Room 38: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.165"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25922"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.167"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Quraina, House III, Room 16: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.167"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25923"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.166"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Quraina, House II, Courtyard: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.166"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25924"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.168"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Quraina, House IV, Room 1: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.168"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25925"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.169"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): West of Sur Isa, House XIV, Room 1: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.169"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25926"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.170"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): West of Sur Isa, House XII, Courtyard 17: View of Wall with Ornamentation and Decorative Niches"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.170"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25927"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.171"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): al-Qatun, House XIa, Courtyard: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.171"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25928"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.172"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): West of Sur Isa, House XII, Room 7: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.172"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25929"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.173"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): West of Sur Isa, House XII, Room 15 and 21: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.173"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25930"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.174"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Jubairiyya, House XVII: View of Wall Decoration"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.174"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25931"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.175"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.175"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25932"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.176"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.176"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25933"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.177"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Southeast View of Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.177"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25934"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.178"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Arabic Inscription on Wall of Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.178"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25935"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.180"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Mausoleum Imam al-Dur with Arabic Inscription on Upper Wall"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.180"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25936"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.179"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Inside Cupola of Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.179"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25937"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.184"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Inside Cupola of Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.184"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25938"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.183"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.183"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25939"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.181"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Arabic Inscription, Kufic Script, on the Inside Wall of the Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.181"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref25940"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.182"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): View of Arabic Inscription, Kufic Script, on the Inside Wall of the Mausoleum Imam al-Dur"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.182"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26050"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.185"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Jubairiyya, House XVI: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.185"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      },
+      {
+        "s" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref26051"
+        },
+        "parent" : {
+          "type" : "uri",
+          "value" : "http://example.org/mdhn/ref20291"
+        },
+        "unitid" : {
+          "type" : "literal",
+          "value" : "FSA A.06 04.PF.23.186"
+        },
+        "name" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Excavation of Samarra (Iraq): Jubairiyya, House XVI: View of Wall with Ornamentation"
+        },
+        "accessurl" : {
+          "type" : "uri",
+          "value" : "https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_04.23.186"
+        },
+        "parentlabel" : {
+          "xml:lang" : "en",
+          "type" : "literal",
+          "value" : "Photo File 23: Samarra: Paläste und Moscheen--II"
+        }
+      }
+    ]
+  }
+}
