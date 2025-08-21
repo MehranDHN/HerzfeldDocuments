@@ -1,0 +1,227 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://example.org/iiif/manifest/bfcf4bd4-df29-49cd-bb9d-ae871e381827",
+  "label": "Combined Herzfeld Papers and Photographs",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Combined Canvases from Ernst Herzfeld papers and photographs"
+    },
+    {
+      "label": "Source",
+      "value": "Smithsonian"
+    },
+    {
+      "label": "Description",
+      "value": "Herzfeld Papers"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://example.org/iiif/sequence/656d10fd-3943-4981-9aaa-0a218acbf24f",
+      "@type": "sc:Sequence",
+      "label": "Default",
+      "canvases": [
+        {
+          "@id": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.078",
+          "@type": "sc:Canvas",
+          "label": "image FS-FSA_A.6_04.02.078",
+          "height": 1950,
+          "width": 3000,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/a340b75c-aee7-4cb7-a1c5-84d1ebe15f1a",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.078/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1950,
+                "width": 3000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.078",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.078"
+            }
+          ]
+        },
+        {
+          "@id": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.082",
+          "@type": "sc:Canvas",
+          "label": "image FS-FSA_A.6_04.02.082",
+          "height": 3000,
+          "width": 1963,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/dba5d2e3-f31f-4b24-8090-ba7dbcaef4d0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.082/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1963,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.082",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.082"
+            }
+          ]
+        },
+        {
+          "@id": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.104",
+          "@type": "sc:Canvas",
+          "label": "image FS-FSA_A.6_04.02.104",
+          "height": 1965,
+          "width": 3000,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/53470284-aa9d-4d8d-bec2-26a5ca8d7e98",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.104/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1965,
+                "width": 3000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.104",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.104"
+            }
+          ]
+        },
+        {
+          "@id": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.162",
+          "@type": "sc:Canvas",
+          "label": "image FS-FSA_A.6_04.02.162",
+          "height": 3000,
+          "width": 1942,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/22e18361-e38d-4874-89b3-70825ca0e759",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.162/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3000,
+                "width": 1942,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.162",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.162"
+            }
+          ]
+        },
+        {
+          "@id": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.163",
+          "@type": "sc:Canvas",
+          "label": "image FS-FSA_A.6_04.02.163",
+          "height": 1972,
+          "width": 3000,
+          "images": [
+            {
+              "@id": "http://example.org/iiif/annotation/32495aa1-7c65-4e3d-99d9-3cb7c268c814",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.163/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1972,
+                "width": 3000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.si.edu/ids/iiif/FS-FSA_A.6_04.02.163",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.163"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "http://example.org/iiif/range/c7b1ad45-b0b2-4805-b82c-82189b4723c2",
+      "@type": "sc:Range",
+      "label": "Ernst Herzfeld papers and photographs",
+      "ranges": [
+        {
+          "@id": "http://example.org/iiif/range/39d70da7-a599-4b91-b36f-f3cdbc54deb1",
+          "@type": "sc:Range",
+          "label": "Resources",
+          "ranges": [
+            {
+              "@id": "http://example.org/iiif/range/98fe2302-a741-425c-947a-e2da5c7c2a0f",
+              "@type": "sc:Range",
+              "label": "Pre-Achaemenian, Pasargadae, Naqsh-i Rustam, Istakhr (series 11356)",
+              "ranges": [
+                {
+                  "@id": "http://example.org/iiif/range/10d2fb50-a791-41a0-a0f9-10b5f0033004",
+                  "@type": "sc:Range",
+                  "label": "Pasargadae, tomb of Cyrus. Closer view of preceeding",
+                  "canvases": [
+                    "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.078"
+                  ]
+                },
+                {
+                  "@id": "http://example.org/iiif/range/ff5add31-821e-4fd8-a145-85278190af73",
+                  "@type": "sc:Range",
+                  "label": "Pasargadae, tomb of Cyrus. Doorway from outside",
+                  "canvases": [
+                    "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.082"
+                  ]
+                },
+                {
+                  "@id": "http://example.org/iiif/range/2979697b-0675-4dbb-9cfe-8623185bf124",
+                  "@type": "sc:Range",
+                  "label": "Pasargadae, building S. SE corner",
+                  "canvases": [
+                    "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.104"
+                  ]
+                },
+                {
+                  "@id": "http://example.org/iiif/range/ddc8036b-6e40-40c7-bee6-313ff9393067",
+                  "@type": "sc:Range",
+                  "label": "Pasargadae. Another view",
+                  "canvases": [
+                    "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.162"
+                  ]
+                },
+                {
+                  "@id": "http://example.org/iiif/range/0597c090-064a-46c1-9a58-29ae52285227",
+                  "@type": "sc:Range",
+                  "label": "Pasargadae. Another view",
+                  "canvases": [
+                    "https://ids.si.edu/ids/iiif/canvas-FS-FSA_A.6_04.02.163"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
