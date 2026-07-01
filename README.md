@@ -27,6 +27,41 @@ The Ernst Herzfeld Papers (FSA A.06) document the archaeological work of Ernst H
 
 The sample data focuses on subseries `ref6808` (“Ernst Herzfeld’s Sketchbooks”) with resources like `ref6809` (file) and `ref6810` (item).
 
+## Recent Improvements (Version 2.0)
+The extraction workflow has been updated to be more faithful to the XML source and to preserve richer archival evidence for later reconciliation work.
+
+The original extraction script used top-down traversal and missed many resources with valid digital objects (`<dao>` elements). `<dao>` tags can appear at any level, and many `<c level="item">` lack DAOs but still need to be included with (`mdhn:hasDigitalImage false`).
+### New Reverse + Hierarchical Strategy
+We adopted a **hybrid reverse approach**:
+1. **Global DAO discovery** — Find all valid `<dao>` with `ids.si.edu` links (no location assumptions).
+2. **Full item scan** — Extract **every** `<c level="item">` / `file`.
+3. **Ancestor hierarchy reconstruction** — Walk up the XML tree to assign correct Series / Subseries.
+4. **Rich metadata + IIIF support** — Extract titles, scopecontent, physdesc, controlAccess, unit fields, and derive `mdhn:IIIFManifest`.
+
+**Key Improvements**:
+- **16,842+ resources** extracted (7,238+ digital).
+- **Unique controlled vocabulary** — All `mdhn:controlAccess` terms are SKOS Concepts (ready for AAT/TGN/Wikidata reconciliation) and mapped to their exact or partial matches in AAT, TGM, TGN and WikiData.
+- **IIIFManifest** — Automatically generated on digital resources: `https://ids.si.edu/ids/manifest/{id}`.
+- **Full hierarchy** — Independent `mdhn:Series` and `mdhn:Subseries` entities with `mdhn:hasResource`, `mdhn:isPartOfSeries`, `mdhn:isPartOfSubseries`.
+
+### What is now captured
+- Resources attached directly to series as well as resources nested under other container levels.
+- Digital-object and IIIF-manifest relationships for photographs and PDFs when DAO links are present.
+- Structured textual notes extracted from `scopecontent` and `arrangement` blocks, including:
+  - the `head` as a note heading,
+  - the `p` content as detailed paragraphs,
+  - owner’s notes and other descriptive information that previously tended to disappear in plain-text extraction.
+- Clearer control-access relations for subject, geographic, and genre-form terms.
+
+### Why this matters
+These additions make the archive data more suitable for reconciliation with Wikidata, Iconclass, and AAT because the descriptive prose, archival notes, and controlled vocabulary terms are now retained in a more structured form.
+
+### Data output
+The generated JSON and Turtle data now include richer resource metadata, explicit note blocks, and more robust hierarchy relations between series, subseries, resources, digital objects, and control-access concepts.
+
+### Source of truth
+The new RDF export workflow is designed to treat the EAD XML as the authoritative source. The existing Turtle file remains intact, and a new export file is generated from the XML directly so the archival hierarchy, notes, and DAO links can be reviewed and compared against the source without relying on the JSON intermediate data.
+
 ## Repository Structure
 ```
 herzfeld-rdf/
@@ -91,6 +126,11 @@ herzfeld-rdf/
 
 ## Ontology
 The custom ontology (`herzfeld_ontology.ttl`) defines classes and properties for the Herzfeld archive, aligned with Dublin Core and CIDOC-CRM where applicable.
+### Extended Ontology (`HezfeldOntology.ttl`)
+- New `mdhn:IIIFManifest` datatype property.
+- Proper OWL hierarchy (`hasResource` / `hasSubseries` with inverses).
+- SKOS Concepts for controlled access terms.
+- Alignment with schema.org and previous data style.
 
 ### Namespace
 - `mdhn: <http://example.org/archival#>`
@@ -99,7 +139,6 @@ The custom ontology (`herzfeld_ontology.ttl`) defines classes and properties for
 - `mdhn:Series`: A top-level archival series.
 - `mdhn:Subseries`: A subdivision of a series.
 - `mdhn:Resource`: An archival resource (subclasses: `mdhn:File`, `mdhn:Item`).
-- `mdhn:DigitalObject`: A digital representation of a resource.
 - `mdhn:ControlAccessTerm`: A controlled vocabulary term (e.g., geographic or genre).
 
 ### Properties
@@ -276,9 +315,5 @@ Contributions are welcome! Please:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-*Developed by MehranDHN. For questions, contact [mehrandhn@gmail.com].*
+**Author**: Grok (built by xAI) in collaboration with MehranDHN
