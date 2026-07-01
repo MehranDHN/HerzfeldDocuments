@@ -5,192 +5,262 @@
 @prefix schema: <http://schema.org/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix arch: <http://example.org/archival#> .
+@prefix mdhn: <http://example.org/mdhn/herzfeld#> .
 
 # Ontology Definition
-arch:ArchivalOntology a owl:Ontology ;
+mdhn:ArchivalOntology a owl:Ontology ;
     dct:title "Archival Ontology"@en ;
     dct:description "An ontology for archival series, subseries, and resources based on a provided JSON model, compatible with SKOS and schema.org."@en .
 
+
+
+
+mdhn:IIIFManifest a owl:DatatypeProperty .
+
+mdhn:controlAccess a owl:ObjectProperty .
+
+mdhn:hasDigitalImage a owl:DatatypeProperty .
+
+
+
+mdhn:hasResource a owl:ObjectProperty ;
+    rdfs:label "has resource"@en ;
+    rdfs:domain mdhn:Subseries ;
+    rdfs:range mdhn:Resource ;
+    rdfs:subPropertyOf schema:hasPart ;
+    owl:inverseOf mdhn:isPartOfSubseries .    
+
+mdhn:hasSubseries a owl:ObjectProperty ;
+    rdfs:label "has subseries"@en ;
+    rdfs:domain mdhn:Series ;
+    rdfs:range mdhn:Subseries ;
+    rdfs:subPropertyOf schema:hasPart ;
+    owl:inverseOf mdhn:isPartOfSeries .
 # Classes
-arch:Series a owl:Class ;
+mdhn:Series a owl:Class ;
     rdfs:label "Series"@en ;
     rdfs:comment "A collection of archival materials grouped together."@en ;
     rdfs:subClassOf schema:Collection .
 
-arch:Subseries a owl:Class ;
+mdhn:Subseries a owl:Class ;
     rdfs:label "Subseries"@en ;
     rdfs:comment "A subdivision of a series, containing related archival materials."@en ;
     rdfs:subClassOf schema:Collection .
 
-arch:Resource a owl:Class ;
+mdhn:SubjectHeaderSource a owl:Class ;
+    rdfs:label "SubjectHeaderSource"@en ;
+    rdfs:comment "Top level calss for subject headings"@en .    
+
+mdhn:ControlAccessTerm a owl:Class ;
+    rdfs:label "control access"@en ;
+    rdfs:comment "A subdivision of a series, containing related archival materials."@en ;
+    rdfs:subClassOf mdhn:SubjectHeaderSource.   
+
+mdhn:Resource a owl:Class ;
     rdfs:label "Resource"@en ;
     rdfs:comment "An individual archival item or file within a subseries."@en ;
     rdfs:subClassOf schema:CreativeWork .
 
+mdhn:Note a owl:Class ;
+    rdfs:label "Note"@en ;
+    rdfs:comment "A structured textual note derived from arrangement or scopecontent blocks."@en ;
+    rdfs:subClassOf schema:CreativeWork .
+
+
+mdhn:IIIFManifest a owl:Class ;
+    rdfs:label "IIIF Manifest"@en ;
+    rdfs:comment "A IIIF manifest describing the available views of a digital object."@en ;
+    rdfs:subClassOf schema:CreativeWork .
+
 # Properties
-arch:hasSubseries a owl:ObjectProperty ;
-    rdfs:label "has subseries"@en ;
-    rdfs:domain arch:Series ;
-    rdfs:range arch:Subseries ;
-    rdfs:subPropertyOf schema:hasPart ;
-    owl:inverseOf arch:isPartOfSeries .
 
-arch:isPartOfSeries a owl:ObjectProperty ;
+
+mdhn:isPartOfSeries a owl:ObjectProperty ;
     rdfs:label "is part of series"@en ;
-    rdfs:domain arch:Subseries ;
-    rdfs:range arch:Series ;
+    rdfs:domain mdhn:Subseries ;
+    rdfs:range mdhn:Series ;
     rdfs:subPropertyOf schema:isPartOf .
 
-arch:hasResource a owl:ObjectProperty ;
-    rdfs:label "has resource"@en ;
-    rdfs:domain arch:Subseries ;
-    rdfs:range arch:Resource ;
-    rdfs:subPropertyOf schema:hasPart ;
-    owl:inverseOf arch:isPartOfSubseries .
 
-arch:isPartOfSubseries a owl:ObjectProperty ;
+
+mdhn:isPartOfSubseries a owl:ObjectProperty ;
     rdfs:label "is part of subseries"@en ;
-    rdfs:domain arch:Resource ;
-    rdfs:range arch:Subseries ;
+    rdfs:domain mdhn:Resource ;
+    rdfs:range mdhn:Subseries ;
     rdfs:subPropertyOf schema:isPartOf .
 
-arch:unitid a owl:DatatypeProperty ;
+mdhn:unitid a owl:DatatypeProperty ;
     rdfs:label "unit identifier"@en ;
-    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Series arch:Subseries arch:Resource) ] ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (mdhn:Series mdhn:Subseries mdhn:Resource) ] ;
     rdfs:range xsd:string ;
     rdfs:subPropertyOf dct:identifier .
 
-arch:scopecontent a owl:DatatypeProperty ;
+mdhn:scopecontent a owl:DatatypeProperty ;
     rdfs:label "scope and content"@en ;
-    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Subseries arch:Resource) ] ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (mdhn:Subseries mdhn:Resource) ] ;
     rdfs:range xsd:string ;
     rdfs:subPropertyOf schema:description .
 
-arch:unitdate a owl:DatatypeProperty ;
+mdhn:unitdate a owl:DatatypeProperty ;
     rdfs:label "unit date"@en ;
-    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Subseries arch:Resource) ] ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (mdhn:Subseries mdhn:Resource) ] ;
     rdfs:range xsd:string ;
     rdfs:subPropertyOf schema:temporalCoverage .
 
-arch:physdesc a owl:DatatypeProperty ;
+mdhn:physdesc a owl:DatatypeProperty ;
     rdfs:label "physical description"@en ;
-    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Subseries arch:Resource) ] ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (mdhn:Subseries mdhn:Resource) ] ;
     rdfs:range xsd:string ;
     rdfs:subPropertyOf schema:physicalCondition .
 
-arch:hasDigitalImage a owl:DatatypeProperty ;
+mdhn:hasDigitalImage a owl:DatatypeProperty ;
     rdfs:label "has digital image"@en ;
-    rdfs:domain arch:Resource ;
+    rdfs:domain mdhn:Resource ;
     rdfs:range xsd:boolean .
 
-arch:controlAccess a owl:ObjectProperty ;
+
+
+mdhn:hasManifest a owl:ObjectProperty ;
+    rdfs:label "has IIIF manifest"@en ;
+    rdfs:domain mdhn:Resource ;
+    rdfs:range mdhn:IIIFManifest ;
+    rdfs:subPropertyOf schema:subjectOf .
+
+mdhn:hasControlAccessTerm a owl:ObjectProperty ;
+    rdfs:label "has control access term"@en ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (mdhn:Series mdhn:Subseries mdhn:Resource) ] ;
+    rdfs:range skos:Concept ;
+    rdfs:subPropertyOf schema:about ;
+    owl:equivalentProperty mdhn:controlAccess .
+
+mdhn:hasNote a owl:ObjectProperty ;
+    rdfs:label "has note"@en ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (mdhn:Series mdhn:Subseries mdhn:Resource) ] ;
+    rdfs:range mdhn:Note ;
+    rdfs:subPropertyOf schema:subjectOf .
+
+mdhn:noteHeading a owl:DatatypeProperty ;
+    rdfs:label "note heading"@en ;
+    rdfs:domain mdhn:Note ;
+    rdfs:range xsd:string .
+
+mdhn:noteText a owl:DatatypeProperty ;
+    rdfs:label "note text"@en ;
+    rdfs:domain mdhn:Note ;
+    rdfs:range xsd:string .
+
+mdhn:noteType a owl:DatatypeProperty ;
+    rdfs:label "note type"@en ;
+    rdfs:domain mdhn:Note ;
+    rdfs:range xsd:string .
+
+mdhn:controlAccess a owl:ObjectProperty ;
     rdfs:label "control access"@en ;
-    rdfs:domain [ a owl:Class ; owl:unionOf (arch:Series arch:Subseries arch:Resource) ] ;
+    rdfs:domain [ a owl:Class ; owl:unionOf (mdhn:Series mdhn:Subseries mdhn:Resource) ] ;
     rdfs:range skos:Concept ;
     rdfs:subPropertyOf schema:about .
 
-arch:seriesType a owl:ObjectProperty ;
+mdhn:seriesType a owl:ObjectProperty ;
     rdfs:label "series type"@en ;
-    rdfs:domain arch:Series ;
+    rdfs:domain mdhn:Series ;
     rdfs:range skos:Concept ;
     rdfs:subPropertyOf schema:additionalType ;
-    owl:inverseOf arch:isTypeOfSeries .
+    owl:inverseOf mdhn:isTypeOfSeries .
 
-arch:isTypeOfSeries a owl:ObjectProperty ;
+mdhn:isTypeOfSeries a owl:ObjectProperty ;
     rdfs:label "is type of series"@en ;
     rdfs:domain skos:Concept ;
-    rdfs:range arch:Series .    
+    rdfs:range mdhn:Series .    
 
 # SKOS Concept Scheme for Control Access
-arch:ControlAccessScheme a skos:ConceptScheme ;
+mdhn:ControlAccessScheme a skos:ConceptScheme ;
     skos:prefLabel "Archival Control Access Terms"@en .
 
 # Example Instances
-arch:ref6807 a arch:Series ;
+mdhn:ref6807 a mdhn:Series ;
     schema:name "Sketchbooks"@en ;
-    arch:hasSubseries arch:ref6808 .
+    mdhn:hasSubseries mdhn:ref6808 .
 
-arch:ref6808 a arch:Subseries ;
+mdhn:ref6808 a mdhn:Subseries ;
     schema:name "Ernst Herzfeld's Sketchbooks"@en ;
-    arch:unitid "2" ;
-    arch:scopecontent "The sketchbooks of Ernst Herzfeld (1879-1948)..."@en ;
-    arch:controlAccess arch:Taq-e-Bostan, arch:Sketchbooks-Genre ;
-    arch:isPartOfSeries arch:ref6807 ;
-    arch:hasResource arch:ref6809, arch:ref6810 .
+    mdhn:unitid "2" ;
+    mdhn:scopecontent "The sketchbooks of Ernst Herzfeld (1879-1948)..."@en ;
+    mdhn:controlAccess mdhn:Taq-e-Bostan, mdhn:Sketchbooks-Genre ;
+    mdhn:isPartOfSeries mdhn:ref6807 ;
+    mdhn:hasResource mdhn:ref6809, mdhn:ref6810 .
 
-arch:ref6809 a arch:Resource ;
+mdhn:ref6809 a mdhn:Resource ;
     schema:name "SK-I Persien"@en ;
-    arch:unitid "FSA A.06 02.01.01" ;
-    arch:hasDigitalImage false ;
-    arch:controlAccess arch:Persepolis ;
+    mdhn:unitid "FSA A.06 02.01.01" ;
+    mdhn:hasDigitalImage false ;
+    mdhn:controlAccess mdhn:Persepolis ;
     schema:url <https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_02.01.01> ;
     schema:description "Excavation of Persepolis (Iran): Sketchbook"@en ;
-    arch:isPartOfSubseries arch:ref6808 .
+    mdhn:isPartOfSubseries mdhn:ref6808 .
 
-arch:ref6810 a arch:Resource ;
+mdhn:ref6810 a mdhn:Resource ;
     schema:name "SK-II Persien"@en ;
-    arch:unitid "FSA A.06 02.01.02" ;
-    arch:hasDigitalImage true ;
-    arch:controlAccess arch:Persepolis ;
+    mdhn:unitid "FSA A.06 02.01.02" ;
+    mdhn:hasDigitalImage true ;
+    mdhn:controlAccess mdhn:Persepolis ;
     schema:url <https://ids.si.edu/ids/deliveryService?id=FS-FSA_A.06_02.01.02> ;
     schema:description "Excavation of Persepolis (Iran): Sketch"@en ;
-    arch:isPartOfSubseries arch:ref6808 .
+    mdhn:isPartOfSubseries mdhn:ref6808 .
 
 # SKOS Concepts for Control Access
-arch:Taq-e-Bostan a skos:Concept ;
+mdhn:Taq-e-Bostan a skos:Concept ;
     skos:prefLabel "Taq-e Bostan Site (Iran)"@en ;
-    skos:inScheme arch:ControlAccessScheme ;
+    skos:inScheme mdhn:ControlAccessScheme ;
     skos:notation "lcsh" ;
     schema:additionalType "geographic" .
 
-arch:Sketchbooks-Genre a skos:Concept ;
+mdhn:Sketchbooks-Genre a skos:Concept ;
     skos:prefLabel "Sketchbooks"@en ;
-    skos:inScheme arch:ControlAccessScheme ;
+    skos:inScheme mdhn:ControlAccessScheme ;
     skos:notation "aat" ;
     skos:exactMatch <http://vocab.getty.edu/aat/300027354> ;
     schema:additionalType "genre_form" .
 
-arch:Persepolis a skos:Concept ;
+mdhn:Persepolis a skos:Concept ;
     skos:prefLabel "Persepolis (Iran)"@en ;
-    skos:inScheme arch:ControlAccessScheme ;
+    skos:inScheme mdhn:ControlAccessScheme ;
     skos:notation "lcsh" ;
     schema:additionalType "geographic" .
 
 # Series Type Concepts
-arch:TravelJournals a skos:Concept ;
+mdhn:TravelJournals a skos:Concept ;
     skos:prefLabel "Travel Journals"@en ;
-    skos:inScheme arch:SeriesTypeScheme .
+    skos:inScheme mdhn:SeriesTypeScheme .
 
-arch:Sketchbooks a skos:Concept ;
+mdhn:Sketchbooks a skos:Concept ;
     skos:prefLabel "Sketchbooks"@en ;
-    skos:inScheme arch:SeriesTypeScheme .
+    skos:inScheme mdhn:SeriesTypeScheme .
 
-arch:Notebooks a skos:Concept ;
+mdhn:Notebooks a skos:Concept ;
     skos:prefLabel "Notebooks"@en ;
-    skos:inScheme arch:SeriesTypeScheme .
+    skos:inScheme mdhn:SeriesTypeScheme .
 
-arch:PhotographicFiles a skos:Concept ;
+mdhn:PhotographicFiles a skos:Concept ;
     skos:prefLabel "Photographic Files"@en ;
-    skos:inScheme arch:SeriesTypeScheme .
+    skos:inScheme mdhn:SeriesTypeScheme .
 
-arch:DrawingsAndMaps a skos:Concept ;
+mdhn:DrawingsAndMaps a skos:Concept ;
     skos:prefLabel "Drawings and Maps"@en ;
-    skos:inScheme arch:SeriesTypeScheme .
+    skos:inScheme mdhn:SeriesTypeScheme .
 
-arch:Squeezes a skos:Concept ;
+mdhn:Squeezes a skos:Concept ;
     skos:prefLabel "Squeezes"@en ;
-    skos:inScheme arch:SeriesTypeScheme .
+    skos:inScheme mdhn:SeriesTypeScheme .
 
-arch:SamarraExpedition a skos:Concept ;
+mdhn:SamarraExpedition a skos:Concept ;
     skos:prefLabel "Samarra Expedition"@en ;
-    skos:inScheme arch:SeriesTypeScheme .    
+    skos:inScheme mdhn:SeriesTypeScheme .    
 
-arch:ref6806 a arch:Series ;
+mdhn:ref6806 a mdhn:Series ;
     schema:name "Travel Journals"@en ;
-    arch:seriesType arch:TravelJournals .
+    mdhn:seriesType mdhn:TravelJournals .
 
-arch:ref6807 a arch:Series ;
+mdhn:ref6807 a mdhn:Series ;
     schema:name "Sketchbooks"@en ;
-    arch:seriesType arch:Sketchbooks ;
-    arch:hasSubseries arch:ref6808 .    
+    mdhn:seriesType mdhn:Sketchbooks ;
+    mdhn:hasSubseries mdhn:ref6808 .    
