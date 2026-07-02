@@ -1,0 +1,174 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mehran-dhn.github.io/herzfeld/iiif/collection.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Ernst Herzfeld Papers \u2014 Complete Collection"
+    ]
+  },
+  "items": [
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref10431/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Series"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref8672/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Series"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref10847/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Series"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref9987/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref10254/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref10359/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref11356/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref12307/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref18073/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref20270/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref20275/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref20287/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref20291/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref20309/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref21376/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref22863/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref9925/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    },
+    {
+      "type": "Manifest",
+      "id": "https://mehran-dhn.github.io/herzfeld/iiif/series/herzfeld#refref20285/manifest.json",
+      "label": {
+        "en": [
+          "http://example.org/mdhn/herzfeld#Subseries"
+        ]
+      }
+    }
+  ]
+}
