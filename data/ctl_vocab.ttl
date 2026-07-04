@@ -1,0 +1,1068 @@
+
+@prefix mdhn: <http://example.org/mdhn/herzfeld#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+
+mdhn:austria a mdhn:ControlAccessTerm ;
+    rdfs:label "Austria"@en .
+
+mdhn:azerbaijan a mdhn:ControlAccessTerm ;
+    rdfs:label "Azerbaijan"@en .
+
+mdhn:bartholomae__christian__1855_1925 a mdhn:ControlAccessTerm ;
+    rdfs:label "Bartholomae, Christian, 1855-1925"@en .
+
+mdhn:botany a mdhn:ControlAccessTerm ;
+    rdfs:label "Botany"@en .
+
+mdhn:ceramics a mdhn:ControlAccessTerm ;
+    rdfs:label "Ceramics"@en .
+
+mdhn:china____xinjian_uyghur____turfan a mdhn:ControlAccessTerm ;
+    rdfs:label "China -- Xinjian Uyghur -- Turfan"@en .
+
+mdhn:country____state_prov____takht_e_jamshid____great_stairway a mdhn:ControlAccessTerm ;
+    rdfs:label "Country -- State/Prov -- Takht-e Jamshid -- Great Stairway"@en .
+
+mdhn:d_mav_n__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Dāmavān (Iran)"@en .
+
+mdhn:etchings a mdhn:ControlAccessTerm ;
+    rdfs:label "Etchings"@en .
+
+mdhn:france a mdhn:ControlAccessTerm ;
+    rdfs:label "France"@en .
+
+mdhn:india____delhi____qutl_minar a mdhn:ControlAccessTerm ;
+    rdfs:label "India -- Delhi -- Qutl Minar"@en .
+
+mdhn:iran____ardabil____ardabil a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Ardabil -- Ardabil"@en .
+
+mdhn:iran____ardabil____hajjiabad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Ardabil -- Hajjiabad"@en .
+
+mdhn:iran____fars____darabgird a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Darabgird"@en .
+
+mdhn:iran____fars____dehbid a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Dehbid"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____sasanian_wall a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Sasanian Wall"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____tomb_iii a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Tomb III"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____tomb_iv a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Tomb IV"@en .
+
+mdhn:iran____fars____persepolis____apadana a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Persepolis -- Apadana"@en .
+
+mdhn:iran____fars____persepolis____tal_i_bakun a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Persepolis -- Tal-i Bakun"@en .
+
+mdhn:iran____fars____takht_e_jamshid____palace_g a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Palace G"@en .
+
+mdhn:iran____fars____takht_e_jamshid____tachara____29_93478 a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Tachara -- 29.93478"@en .
+
+mdhn:iran____lorestan____khurramabad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Lorestan -- Khurramabad"@en .
+
+mdhn:iran____luristan____pusht_i_kuh a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Luristan -- Pusht-i Kuh"@en .
+
+mdhn:iran____markazi____doruzan a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Markazi -- Doruzan"@en .
+
+mdhn:iran____mazandaran____demavand a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Mazandaran -- Demavand"@en .
+
+mdhn:iran____tehran____waramin a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Tehran -- Waramin"@en .
+
+mdhn:iraq____basra____zubair a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Basra -- Zubair"@en .
+
+mdhn:iraq____ninawa____calah a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Ninawa -- Calah"@en .
+
+mdhn:italy a mdhn:ControlAccessTerm ;
+    rdfs:label "Italy"@en .
+
+mdhn:manuscripts a mdhn:ControlAccessTerm ;
+    rdfs:label "manuscripts"@en .
+
+mdhn:mashhad__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Mashhad (Iran)"@en .
+
+mdhn:miller__konrad__1844_1933 a mdhn:ControlAccessTerm ;
+    rdfs:label "Miller, Konrad, 1844-1933"@en .
+
+mdhn:mosul__iraq_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Mosul (Iraq)"@en .
+
+mdhn:music a mdhn:ControlAccessTerm ;
+    rdfs:label "Music"@en .
+
+mdhn:oman a mdhn:ControlAccessTerm ;
+    rdfs:label "Oman"@en .
+
+mdhn:pakistan a mdhn:ControlAccessTerm ;
+    rdfs:label "Pakistan"@en .
+
+mdhn:postcards a mdhn:ControlAccessTerm ;
+    rdfs:label "Postcards"@en .
+
+mdhn:russia a mdhn:ControlAccessTerm ;
+    rdfs:label "Russia"@en .
+
+mdhn:synagogues a mdhn:ControlAccessTerm ;
+    rdfs:label "Synagogues"@en .
+
+mdhn:syria____ar_raqqah____rusafa a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Ar-Raqqah -- Rusafa"@en .
+
+mdhn:syria____latakia____ladhakiya a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Latakia -- Ladhakiya"@en .
+
+mdhn:turkey____central_anatolia____urgub a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Central Anatolia -- Urgub"@en .
+
+mdhn:turkey____corum____iskelib a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Corum -- Iskelib"@en .
+
+mdhn:turkey____mardin____dara a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Mardin -- Dara"@en .
+
+mdhn:turkey____sanliurfa____urfa a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Sanliurfa -- Urfa"@en .
+
+mdhn:turkey____van____van a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Van -- Van"@en .
+
+mdhn:uzbekistan a mdhn:ControlAccessTerm ;
+    rdfs:label "Uzbekistan"@en .
+
+mdhn:_a_r__iraq_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Ḥaḍr (Iraq)"@en .
+
+mdhn:andrae__walter__1875_1956 a mdhn:ControlAccessTerm ;
+    rdfs:label "Andrae, Walter, 1875-1956"@en .
+
+mdhn:articles a mdhn:ControlAccessTerm ;
+    rdfs:label "Articles"@en .
+
+mdhn:beadwork a mdhn:ControlAccessTerm ;
+    rdfs:label "Beadwork"@en .
+
+mdhn:beirut__lebanon_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Beirut (Lebanon)"@en .
+
+mdhn:berchem__max_van__1863_1921 a mdhn:ControlAccessTerm ;
+    rdfs:label "Berchem, Max van, 1863-1921"@en .
+
+mdhn:china a mdhn:ControlAccessTerm ;
+    rdfs:label "China"@en .
+
+mdhn:clippings a mdhn:ControlAccessTerm ;
+    rdfs:label "Clippings"@en .
+
+mdhn:cuneiform_writing a mdhn:ControlAccessTerm ;
+    rdfs:label "Cuneiform writing"@en .
+
+mdhn:embroidery a mdhn:ControlAccessTerm ;
+    rdfs:label "Embroidery"@en .
+
+mdhn:hunting a mdhn:ControlAccessTerm ;
+    rdfs:label "Hunting"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____sasanian_reliefs_4_and_5 a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Sasanian Reliefs 4 and 5"@en .
+
+mdhn:iran____fars____qale_i_dukhtar a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Qale i Dukhtar"@en .
+
+mdhn:iran____fars____takht_e_jamshid____office_of_the_guards a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Office of the Guards"@en .
+
+mdhn:iran____fars____takht_e_jamshid____western_wall a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Western Wall"@en .
+
+mdhn:iran____khuzestan____masjid_i_sulaiman a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Khuzestan -- Masjid i Sulaiman"@en .
+
+mdhn:iran____razavi_khorasan____sabzawar a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Razavi Khorasan -- Sabzawar"@en .
+
+mdhn:iraq____salah_ad_din____assur a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Assur"@en .
+
+mdhn:iraq____salah_ad_din____samarra____harba_bridge_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Harba Bridge."@en .
+
+mdhn:iraq____salah_ad_din____samarra____sur_isa a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Sur Isa"@en .
+
+mdhn:iraq____salah_ad_din____samarra____zanqur a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Zanqur"@en .
+
+mdhn:lebanon____beqaa____baalbek a mdhn:ControlAccessTerm ;
+    rdfs:label "Lebanon -- Beqaa -- Baalbek"@en .
+
+mdhn:publications a mdhn:ControlAccessTerm ;
+    rdfs:label "Publications"@en .
+
+mdhn:turkey____mardin____mardin a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Mardin -- Mardin"@en .
+
+mdhn:turkey____mersin____korykos a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Mersin -- Korykos"@en .
+
+mdhn:varamin__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "varamin (Iran)"@en .
+
+mdhn:verlag_philipp_von_zabern a mdhn:ControlAccessTerm ;
+    rdfs:label "Verlag Philipp von Zabern"@en .
+
+mdhn:women a mdhn:ControlAccessTerm ;
+    rdfs:label "Women"@en .
+
+mdhn:anist_s_m_r___al_karmil___ab__1866_1947 a mdhn:ControlAccessTerm ;
+    rdfs:label "Anistās Mārī, al-Karmilī, ab, 1866-1947"@en .
+
+mdhn:ciraq____salah_ad_din____samarra____west_of_sur_isa a mdhn:ControlAccessTerm ;
+    rdfs:label "CIraq -- Salah ad-Din -- Samarra -- West of Sur Isa"@en .
+
+mdhn:croatia a mdhn:ControlAccessTerm ;
+    rdfs:label "Croatia"@en .
+
+mdhn:illustrations a mdhn:ControlAccessTerm ;
+    rdfs:label "Illustrations"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____husain_kuh a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Husain Kuh"@en .
+
+mdhn:iran____fars____persepolis____throne_hall a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Persepolis -- Throne Hall"@en .
+
+mdhn:iran____fars____takht_e_jamshid____eastern_wall a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Eastern Wall"@en .
+
+mdhn:iran____fars____takht_e_jamshid____unfinished_tomb a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Unfinished Tomb"@en .
+
+mdhn:iran____samangan____takht_e_rostam a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Samangan -- Takht-e Rostam"@en .
+
+mdhn:iran____semnan____ab_i_arm a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Semnan -- Ab-i'arm"@en .
+
+mdhn:iraq_____salah_ad_din____samarra a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq` -- Salah ad-Din -- Samarra"@en .
+
+mdhn:iraq____diyala____madain a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Diyala -- Madain"@en .
+
+mdhn:photographic_print a mdhn:ControlAccessTerm ;
+    rdfs:label "Photographic print"@en .
+
+
+mdhn:textile_crafts a mdhn:ControlAccessTerm ;
+    rdfs:label "Textile crafts"@en .
+
+mdhn:turkey____akdeniz_kiyisi____icel_ili____korykos_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Akdeniz kiyisi -- Icel Ili -- Korykos."@en .
+
+mdhn:turkey____bulsa____brussa a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey -- Bulsa -- Brussa"@en .
+
+mdhn:iran____razavi_khorasan____mashhad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Razavi Khorasan -- Mashhad"@en .
+
+mdhn:iran____tehran____khunik a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Tehran -- Khunik"@en .
+
+mdhn:journals__accounts_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Journals (accounts)"@en .
+
+mdhn:meyer__eduard__1855_1930 a mdhn:ControlAccessTerm ;
+    rdfs:label "Meyer, Eduard, 1855-1930"@en .
+
+mdhn:palestine a mdhn:ControlAccessTerm ;
+    rdfs:label "Palestine"@en .
+
+mdhn:papyrus a mdhn:ControlAccessTerm ;
+    rdfs:label "Papyrus"@en .
+
+mdhn:india a mdhn:ControlAccessTerm ;
+    rdfs:label "India"@en .
+
+mdhn:iran____fars____pasargadae____bulaghi_pass a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Pasargadae -- Bulaghi Pass"@en .
+
+mdhn:iran____fars____takht_e_jamshid____inner_gate a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Inner Gate"@en .
+
+mdhn:iran____fars____takht_e_jamshid____south_of_terrace_complex a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- South of Terrace Complex"@en .
+
+mdhn:iran____hamadan____asadabad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Hamadan -- Asadabad"@en .
+
+mdhn:iraq____as_sulaymaniyah____paikuli_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- As-Sulaymaniyah -- Paikuli."@en .
+
+mdhn:photographs a mdhn:ControlAccessTerm ;
+    rdfs:label "Photographs"@en .
+
+
+
+mdhn:transportation a mdhn:ControlAccessTerm ;
+    rdfs:label "Transportation"@en .
+
+mdhn:__s__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Ṭūs (Iran)"@en .
+
+mdhn:afghanistan a mdhn:ControlAccessTerm ;
+    rdfs:label "Afghanistan"@en .
+
+mdhn:becker__carl_heinrich__1876_1933 a mdhn:ControlAccessTerm ;
+    rdfs:label "Becker, Carl Heinrich, 1876-1933"@en .
+
+mdhn:estakhr__extinct_city_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Estakhr (Extinct city)"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____sasanian_relief_8 a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Sasanian Relief 8"@en .
+
+mdhn:iran____fars____takht_e_jamshid____fratadara a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Fratadara"@en .
+
+mdhn:iran____fars____takht_e_jamshid____northern_fortress_wall a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Northern Fortress Wall"@en .
+
+mdhn:iran____kermanshah____bisutun a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshah -- Bisutun"@en .
+
+mdhn:iran____lorestan____burujird a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Lorestan -- Burujird"@en .
+
+mdhn:khark_island__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Khark Island (Iran)"@en .
+
+
+mdhn:europe a mdhn:ControlAccessTerm ;
+    rdfs:label "Europe"@en .
+
+mdhn:iran____ardabil____asadabad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Ardabil -- Asadabad"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____sasanian_relief_6 a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Sasanian Relief 6"@en .
+
+mdhn:iran____fars____pasargadae____zendan_i_sulaiman a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Pasargadae -- Zendan-i Sulaiman"@en .
+
+mdhn:iran____fars____qasr_i_abu_nasr a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Qasr-i Abu Nasr"@en .
+
+mdhn:iran____fars____takht_e_jamshid____tomb_of_artaxerxes_ii a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Tomb of Artaxerxes II"@en .
+
+mdhn:iran____fars____takht_e_jamshid____tomb_of_artaxerxes_iii a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Tomb of Artaxerxes III"@en .
+
+mdhn:iran____kermanshah____dukkan_i_daud a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshah -- Dukkan i Daud"@en .
+
+mdhn:iran____markazi____saveh a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Markazi -- Saveh"@en .
+
+mdhn:iraq____kurdistan____sulaimaniya a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Kurdistan -- Sulaimaniya"@en .
+
+mdhn:iraq____ninawa____hatra a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Ninawa -- Hatra"@en .
+
+mdhn:lebanon____jerash____jerash a mdhn:ControlAccessTerm ;
+    rdfs:label "Lebanon -- Jerash -- Jerash"@en .
+
+mdhn:museums a mdhn:ControlAccessTerm ;
+    rdfs:label "Museums"@en .
+
+
+mdhn:sarpol_e_zahab__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Sarpol-e Zahab (Iran)"@en .
+
+mdhn:textile_fabrics a mdhn:ControlAccessTerm ;
+    rdfs:label "Textile fabrics"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____kabah_i_zardusht a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Kabah-i Zardusht"@en .
+
+mdhn:iran____kermanshah____qasr_i_shirin a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshah -- Qasr-i Shirin"@en .
+
+mdhn:iran____khuzestan____susa a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Khuzestan -- Susa"@en .
+
+mdhn:iraq____ninawa____mosul a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Ninawa -- Mosul"@en .
+
+mdhn:jerusalem a mdhn:ControlAccessTerm ;
+    rdfs:label "Jerusalem"@en .
+
+mdhn:prints a mdhn:ControlAccessTerm ;
+    rdfs:label "Prints"@en .
+
+
+mdhn:agriculture a mdhn:ControlAccessTerm ;
+    rdfs:label "Agriculture"@en .
+
+mdhn:bell__gertrude_lowthian__1868_1926 a mdhn:ControlAccessTerm ;
+    rdfs:label "Bell, Gertrude Lowthian, 1868-1926"@en .
+
+mdhn:iran____fars____farrashband a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Farrashband"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____sasanian_relief_1 a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Sasanian Relief 1"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____sasanian_relief_7 a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Sasanian Relief 7"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____tomb_ii a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Tomb II"@en .
+
+mdhn:iran____fars____takht_e_jamshid____great_stairway a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Great Stairway"@en .
+
+mdhn:iran____kermanshah____sunghur a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshah -- Sunghur"@en .
+
+mdhn:iran____west_azarbaijan____sardasht a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- West Azarbaijan -- Sardasht"@en .
+
+mdhn:iraq____salah_ad_din____balad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Balad"@en .
+
+mdhn:iraq____salah_ad_din____samarra____al_istabulat a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- al-Istabulat"@en .
+
+mdhn:iraq____salah_ad_din____samarra____al_qadisiyya a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- al-Qadisiyya"@en .
+
+mdhn:iraq____salah_ad_din____samarra____tall_al_aliq a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Tall al-Aliq"@en .
+
+mdhn:syria____hamah____hamah_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Hamah -- Hamah."@en .
+
+mdhn:bas__m__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Basṭām (Iran)"@en .
+
+mdhn:iran____fars____jinjun a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Jinjun"@en .
+
+mdhn:iran____fars____persepolis a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Persepolis"@en .
+
+mdhn:iraq____baghdad____baghdad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Baghdad -- Baghdad"@en .
+
+mdhn:qum__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Qum (Iran)"@en .
+
+mdhn:inscriptions__samaritan a mdhn:ControlAccessTerm ;
+    rdfs:label "Inscriptions, Samaritan"@en .
+
+mdhn:iran____bushehr____sahna a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Bushehr -- Sahna"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____sasanian_relief_2 a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Sasanian Relief 2"@en .
+
+mdhn:iran____razavi_khorasan____nishapur a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Razavi Khorasan -- Nishapur"@en .
+
+mdhn:iran____qom____qum a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Qom -- Qum"@en .
+
+mdhn:iran____fars____pasargadae____tall_i_takht a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Pasargadae -- Tall-i Takht"@en .
+
+mdhn:iran____horasan____sang_bast a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Horasan -- Sang Bast"@en .
+
+mdhn:iraq____salah_ad_din____balad____harba_bridge a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Balad -- Harba Bridge"@en .
+
+mdhn:ledgers__account_books_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Ledgers (account books)"@en .
+
+
+mdhn:rubbings a mdhn:ControlAccessTerm ;
+    rdfs:label "Rubbings"@en .
+
+mdhn:iran____fars____takht_e_jamshid____palace_h a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Palace H"@en .
+
+mdhn:sh_r_z__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Shīrāz (Iran)"@en .
+
+mdhn:iran____kermanshahan____taq_e_bustan_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshahan -- Taq-e Bustan."@en .
+
+mdhn:tehran__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Tehran (Iran)"@en .
+
+mdhn:cultural_landscapes a mdhn:ControlAccessTerm ;
+    rdfs:label "Cultural landscapes"@en .
+
+mdhn:iran____fars____naqsh_i_rajab a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rajab"@en .
+
+mdhn:iran____kermanshah____harsin a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshah -- Harsin"@en .
+
+
+mdhn:vernacular_architecture a mdhn:ControlAccessTerm ;
+    rdfs:label "Vernacular architecture"@en .
+
+mdhn:ma_arrat_al_nu_m_n__syria_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Maʻarrat al-Nuʻmān (Syria)"@en .
+
+
+mdhn:dietrich_reimer_verlag__berlin__germany_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Dietrich Reimer Verlag (Berlin, Germany)"@en .
+
+mdhn:iran____fars____takht_e_jamshid_____harem__of_xerxes a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- \"Harem\" of Xerxes"@en .
+
+mdhn:ray__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Ray (Iran)"@en .
+
+mdhn:iran____fars____takht_e_jamshid____tripylon a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Tripylon"@en .
+
+mdhn:kaiser_friedrich_museum a mdhn:ControlAccessTerm ;
+    rdfs:label "Kaiser-Friedrich-Museum"@en .
+
+mdhn:aerial_photography a mdhn:ControlAccessTerm ;
+    rdfs:label "Aerial photography"@en .
+
+mdhn:cairo__egypt_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Cairo (Egypt)"@en .
+
+mdhn:egypt____cairo____cairo a mdhn:ControlAccessTerm ;
+    rdfs:label "Egypt -- Cairo -- Cairo"@en .
+
+mdhn:iran____kermanshah____kangavar a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshah -- Kangavar"@en .
+
+mdhn:iraq____salah_ad_din____samarra____al_dur a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- al-Dur"@en .
+
+mdhn:africa a mdhn:ControlAccessTerm ;
+    rdfs:label "Africa"@en .
+
+mdhn:iraq____salah_ad_din____samarra____al_jubairiyya a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- al-Jubairiyya"@en .
+
+mdhn:iraq____salah_ad_din____samarra____al_qatun a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- al-Qatun"@en .
+
+mdhn:notes a mdhn:ControlAccessTerm ;
+    rdfs:label "Notes"@en .
+
+mdhn:cuneiform_tablets a mdhn:ControlAccessTerm ;
+    rdfs:label "Cuneiform tablets"@en .
+
+mdhn:cyanotypes a mdhn:ControlAccessTerm ;
+    rdfs:label "Cyanotypes"@en .
+
+mdhn:iran____fars____naqsh_i_rustam a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam"@en .
+
+mdhn:iran____fars____takht_e_jamshid____gate_of_all_lands a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Gate of All Lands"@en .
+
+mdhn:parthians a mdhn:ControlAccessTerm ;
+    rdfs:label "Parthians"@en .
+
+mdhn:petra__extinct_city_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Petra (Extinct city)"@en .
+
+
+mdhn:syria____dimashq____damascus_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Dimashq -- Damascus."@en .
+
+mdhn:syria____homs____hims a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Homs -- Hims"@en .
+
+mdhn:blueprints a mdhn:ControlAccessTerm ;
+    rdfs:label "Blueprints"@en .
+
+mdhn:history a mdhn:ControlAccessTerm ;
+    rdfs:label "History"@en .
+
+mdhn:iran____fars____takht_e_jamshid____terrace_complex a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Terrace Complex"@en .
+
+mdhn:iraq____salah_ad_din____samarra____shabbat_al_hawa a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Shabbat al-Hawa"@en .
+
+
+mdhn:iran____fars____pasargadae____gate_r a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Pasargadae -- Gate R"@en .
+
+mdhn:iran____mazandaran____radkan a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Mazandaran -- Radkan"@en .
+
+mdhn:musical_instruments a mdhn:ControlAccessTerm ;
+    rdfs:label "Musical instruments"@en .
+
+mdhn:iran____fars____takht_e_jamshid a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid"@en .
+
+mdhn:iraq____salah_ad_din____samarra____qubbat_al_sulaibiyya a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Qubbat al-Sulaibiyya"@en .
+
+mdhn:find_objects____samarra a mdhn:ControlAccessTerm ;
+    rdfs:label "Find Objects -- Samarra"@en .
+
+mdhn:iran____bushehr____island_of_kharg a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Bushehr -- Island of Kharg"@en .
+
+mdhn:jordan a mdhn:ControlAccessTerm ;
+    rdfs:label "Jordan"@en .
+
+mdhn:iran____fars____istakhr a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Istakhr"@en .
+
+mdhn:syria____homs____palmyra a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Homs -- Palmyra"@en .
+
+mdhn:syria____idlib____ma_arat_al_nu_man a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Idlib -- Ma'arat al-Nu'man"@en .
+
+mdhn:iraq____salah_ad_din____samarra____abu_dulaf_mosque a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Abu Dulaf Mosque"@en .
+
+mdhn:iran____kermanshah____linjan a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshah -- Linjan"@en .
+
+mdhn:iran____fars____sar_mashhad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Sar Mashhad"@en .
+
+mdhn:iran____razavi_khorasan____tus a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Razavi Khorasan -- Tus"@en .
+
+mdhn:palmyra__syria_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Palmyra (Syria)"@en .
+
+mdhn:correspondence a mdhn:ControlAccessTerm ;
+    rdfs:label "Correspondence"@en .
+
+mdhn:egypt a mdhn:ControlAccessTerm ;
+    rdfs:label "Egypt"@en .
+
+mdhn:iran____fars____pasargadae____palace_p a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Pasargadae -- Palace P"@en .
+
+mdhn:baghdad__iraq_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Baghdad (Iraq)"@en .
+
+mdhn:diaries a mdhn:ControlAccessTerm ;
+    rdfs:label "Diaries"@en .
+
+mdhn:iran____tehran____varamin a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Tehran -- Varamin"@en .
+
+mdhn:lebanon____beqaa____baalbeck a mdhn:ControlAccessTerm ;
+    rdfs:label "Lebanon -- Beqaa -- Baalbeck"@en .
+
+
+mdhn:gelatin_silver_prints a mdhn:ControlAccessTerm ;
+    rdfs:label "Gelatin silver prints"@en .
+
+mdhn:sevruguin__antoin__1851_1933 a mdhn:ControlAccessTerm ;
+    rdfs:label "Sevruguin, Antoin, 1851-1933"@en .
+
+mdhn:tripoli__lebanon_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Tripoli (Lebanon)"@en .
+
+mdhn:bisutun_site__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Bisutun Site (Iran)"@en .
+
+mdhn:iran____semnan____bistam a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Semnan -- Bistam"@en .
+
+mdhn:iran____fars____takht_e_jamshid____hadish a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Hadish"@en .
+
+mdhn:iran____fars____shiraz a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Shiraz"@en .
+
+mdhn:jewelry a mdhn:ControlAccessTerm ;
+    rdfs:label "Jewelry"@en .
+
+mdhn:iran____hamadan____hamadan a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Hamadan -- Hamadan"@en .
+
+mdhn:lantern_slides a mdhn:ControlAccessTerm ;
+    rdfs:label "Lantern slides"@en .
+
+mdhn:syria____halab____aleppo a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Halab -- Aleppo"@en .
+
+mdhn:iran____tehran____rayy a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Tehran -- Rayy"@en .
+
+
+mdhn:iran____fars____takht_e_jamshid____southern_terrace_wall a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Southern Terrace Wall"@en .
+
+mdhn:iraq____salah_ad_din____samarra____shiite_shrine_complex_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Shiite Shrine Complex."@en .
+
+mdhn:krefter__friedrich__1898_1995 a mdhn:ControlAccessTerm ;
+    rdfs:label "Krefter, Friedrich, 1898-1995"@en .
+
+mdhn:ba_labakk__lebanon_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Baʻlabakk (Lebanon)"@en .
+
+mdhn:turkey a mdhn:ControlAccessTerm ;
+    rdfs:label "Turkey"@en .
+
+mdhn:inscriptions__greek a mdhn:ControlAccessTerm ;
+    rdfs:label "Inscriptions, Greek"@en .
+
+mdhn:portrait_photography a mdhn:ControlAccessTerm ;
+    rdfs:label "Portrait photography"@en .
+
+mdhn:iran____fars____takht_e_jamshid____throne_hall a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Throne Hall"@en .
+
+mdhn:iran____semnan____damghan a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Semnan -- Damghan"@en .
+
+
+mdhn:hamad_n__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Hamadān (Iran)"@en .
+
+mdhn:inscriptions__aramaic a mdhn:ControlAccessTerm ;
+    rdfs:label "Inscriptions, Aramaic"@en .
+
+mdhn:iran____fars____pasargadae____tomb_of_cyrus_the_great a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Pasargadae -- Tomb of Cyrus the Great"@en .
+
+mdhn:iraq____salah_ad_din____samarra____qasr_al_ashiq a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Qasr al-Ashiq"@en .
+
+
+mdhn:iran____fars____pasargadae a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Pasargadae"@en .
+
+mdhn:d_mgh_n__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Dāmghān (Iran)"@en .
+
+mdhn:iran____fars____bishapur a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Bishapur"@en .
+
+mdhn:b_sh_p_r__extinct_city_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Bīshāpūr (Extinct city)"@en .
+
+
+mdhn:cuneiform_inscriptions__elamite a mdhn:ControlAccessTerm ;
+    rdfs:label "Cuneiform inscriptions, Elamite"@en .
+
+mdhn:iran____fars____firuzabad a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Firuzabad"@en .
+
+mdhn:iraq____salah_ad_din____samarra____great_mosque_of_al_mutawa a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Great Mosque of al-Mutawakkil."@en .
+
+
+mdhn:sketchbooks a mdhn:ControlAccessTerm ;
+    rdfs:label "Sketchbooks"@en .
+
+mdhn:_im___syria_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Ḥimṣ (Syria)"@en .
+
+mdhn:iran____fars____pasargadae____palace_s a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Pasargadae -- Palace S"@en .
+
+mdhn:iran____fars____takht_e_jamshid____tachara a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Tachara"@en .
+
+mdhn:seals__numismatics_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Seals (Numismatics)"@en .
+
+mdhn:syria____hama____hamah a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Hama -- Hamah"@en .
+
+mdhn:iraq____salah_ad_din____samarra____west_of_sur_isa a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- West of Sur Isa"@en .
+
+mdhn:sarre__friedrich_paul_theodor__1865_1945 a mdhn:ControlAccessTerm ;
+    rdfs:label "Sarre, Friedrich Paul Theodor, 1865-1945"@en .
+
+mdhn:f_r_z_b_d__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Fīrūzābād (Iran)"@en .
+
+mdhn:_am_h__syria_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Ḥamāh (Syria)"@en .
+
+mdhn:weapons a mdhn:ControlAccessTerm ;
+    rdfs:label "Weapons"@en .
+
+mdhn:clothing_and_dress a mdhn:ControlAccessTerm ;
+    rdfs:label "Clothing and dress"@en .
+
+
+mdhn:description_and_travel a mdhn:ControlAccessTerm ;
+    rdfs:label "Description and Travel"@en .
+
+mdhn:iraq____salah_ad_din____samarra____balkuwara a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Balkuwara"@en .
+
+mdhn:cartography a mdhn:ControlAccessTerm ;
+    rdfs:label "Cartography"@en .
+
+mdhn:maps a mdhn:ControlAccessTerm ;
+    rdfs:label "Maps"@en .
+
+mdhn:iran____tehran____tehran a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Tehran -- Tehran"@en .
+
+mdhn:iran____fars____takht_e_jamshid____apadana a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Apadana"@en .
+
+mdhn:cuneiform_inscriptions__akkadian a mdhn:ControlAccessTerm ;
+    rdfs:label "Cuneiform inscriptions, Akkadian"@en .  
+
+mdhn:lebanon a mdhn:ControlAccessTerm ;
+    rdfs:label "Lebanon"@en .
+
+mdhn:sobernheim__moritz a mdhn:ControlAccessTerm ;
+    rdfs:label "Sobernheim, Moritz"@en .
+
+mdhn:iraq____salah_ad_din____samarra____al_quraina a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- al-Quraina"@en .
+
+mdhn:sketches a mdhn:ControlAccessTerm ;
+    rdfs:label "Sketches"@en .
+
+mdhn:iran____isfahan____isfahan a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Isfahan -- Isfahan"@en .
+
+
+mdhn:notebooks a mdhn:ControlAccessTerm ;
+    rdfs:label "Notebooks"@en .
+
+mdhn:shrines a mdhn:ControlAccessTerm ;
+    rdfs:label "Shrines"@en .
+
+mdhn:old_persian_inscriptions a mdhn:ControlAccessTerm ;
+    rdfs:label "Old Persian inscriptions"@en .
+
+mdhn:iran____fars____naqsh_i_rustam____tomb_of_darius_i a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Naqsh-i Rustam -- Tomb of Darius I"@en .
+
+mdhn:i_fah_n__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Iṣfahān (Iran)"@en .
+
+mdhn:iran____kermanshah____taq_i_bustan a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Kermanshah -- Taq-i Bustan"@en .
+
+mdhn:iran____sistan_and_baluchestan____kuh_e_khwaja a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Sistan and Baluchestan -- Kuh-e Khwaja"@en .
+
+
+mdhn:iran a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran"@en .
+
+mdhn:architecture a mdhn:ControlAccessTerm ;
+    rdfs:label "Architecture"@en .
+
+mdhn:archaeology a mdhn:ControlAccessTerm ;
+    rdfs:label "Archaeology"@en .
+
+mdhn:asia a mdhn:ControlAccessTerm ;
+    rdfs:label "Asia"@en .
+
+mdhn:herzfeld__ernst__1879_1948 a mdhn:ControlAccessTerm ;
+    rdfs:label "Herzfeld, Ernst, 1879-1948"@en .
+
+mdhn:iraq a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq"@en .
+
+mdhn:decoration_and_ornament a mdhn:ControlAccessTerm ;
+    rdfs:label "Decoration and ornament"@en .
+
+mdhn:inscriptions a mdhn:ControlAccessTerm ;
+    rdfs:label "Inscriptions"@en .
+
+mdhn:excavations__archaeology_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Excavations (Archaeology)"@en .
+
+mdhn:ancient_near_eastern_art a mdhn:ControlAccessTerm ;
+    rdfs:label "Ancient Near Eastern Art"@en .
+
+mdhn:art_of_the_islamic_world a mdhn:ControlAccessTerm ;
+    rdfs:label "Art of the Islamic World"@en .
+
+mdhn:glass_negatives a mdhn:ControlAccessTerm ;
+    rdfs:label "Glass negatives"@en .
+
+
+mdhn:animals_in_art a mdhn:ControlAccessTerm ;
+    rdfs:label "Animals in art"@en .
+
+mdhn:sassanids a mdhn:ControlAccessTerm ;
+    rdfs:label "Sassanids"@en .
+
+mdhn:relief__sculpture_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Relief (Sculpture)"@en .
+
+mdhn:aleppo__syria_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Aleppo (Syria)"@en .
+
+mdhn:pottery a mdhn:ControlAccessTerm ;
+    rdfs:label "Pottery"@en .
+
+mdhn:religious_buildings a mdhn:ControlAccessTerm ;
+    rdfs:label "Religious buildings"@en .
+
+mdhn:inscriptions__arabic a mdhn:ControlAccessTerm ;
+    rdfs:label "Inscriptions, Arabic"@en .
+
+mdhn:abbasids a mdhn:ControlAccessTerm ;
+    rdfs:label "Abbasids"@en .
+
+mdhn:mesopotamia a mdhn:ControlAccessTerm ;
+    rdfs:label "Mesopotamia"@en .
+
+mdhn:s_marr____iraq_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Sāmarrāʼ (Iraq)"@en .
+
+mdhn:syria a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria"@en .
+
+mdhn:photographic_prints a mdhn:ControlAccessTerm ;
+    rdfs:label "Photographic prints"@en .
+
+mdhn:antiquities a mdhn:ControlAccessTerm ;
+    rdfs:label "Antiquities"@en .
+
+mdhn:architectural_drawing a mdhn:ControlAccessTerm ;
+    rdfs:label "Architectural drawing"@en .
+
+mdhn:drawings a mdhn:ControlAccessTerm ;
+    rdfs:label "Drawings"@en .
+
+mdhn:persepolis__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Persepolis (Iran)"@en .
+
+mdhn:iraq____salah_ad_din____samarra____dar_al_khilafa a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra -- Dar al-Khilafa"@en .
+
+mdhn:iran____fars____takht_e_jamshid____tal_i_bakun a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Fars -- Takht-e Jamshid -- Tal-i Bakun"@en .
+
+mdhn:bakun__tall_e__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Bakun, Tall-e (Iran)"@en .
+
+mdhn:paper_squeezes a mdhn:ControlAccessTerm ;
+    rdfs:label "Paper Squeezes"@en .
+
+mdhn:stucco a mdhn:ControlAccessTerm ;
+    rdfs:label "Stucco"@en .
+
+mdhn:mural_painting_and_decoration a mdhn:ControlAccessTerm ;
+    rdfs:label "Mural painting and decoration"@en .
+
+mdhn:royalty__nobility_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Royalty (Nobility)"@en .
+
+mdhn:lurist_n__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Luristān (Iran)"@en .
+
+
+mdhn:inscriptions__pahlavi a mdhn:ControlAccessTerm ;
+    rdfs:label "Inscriptions, Pahlavi"@en .
+
+mdhn:middle_persian_language a mdhn:ControlAccessTerm ;
+    rdfs:label "Middle Persian language"@en .
+
+mdhn:iraq____salah_ad_din____samarra a mdhn:ControlAccessTerm ;
+    rdfs:label "Iraq -- Salah ad-Din -- Samarra"@en .
+
+mdhn:textile_design a mdhn:ControlAccessTerm ;
+    rdfs:label "Textile design"@en .
+
+
+mdhn:iran____hamadan____nihavand a mdhn:ControlAccessTerm ;
+    rdfs:label "Iran -- Hamadan -- Nihavand"@en .
+
+mdhn:nah_vand__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Nahāvand (Iran)"@en .
+
+mdhn:headgear a mdhn:ControlAccessTerm ;
+    rdfs:label "headgear"@en .
+
+mdhn:cuneiform_inscriptions a mdhn:ControlAccessTerm ;
+    rdfs:label "Cuneiform inscriptions"@en .
+
+mdhn:panoramas a mdhn:ControlAccessTerm ;
+    rdfs:label "Panoramas"@en .
+
+mdhn:coins a mdhn:ControlAccessTerm ;
+    rdfs:label "Coins"@en .
+
+mdhn:s_st_n_va_bal_chist_n__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Sīstān va Balūchistān (Iran)"@en .
+
+mdhn:achaemenian_inscriptions a mdhn:ControlAccessTerm ;
+    rdfs:label "Achaemenian inscriptions"@en .
+
+mdhn:syria____damascus____damascus a mdhn:ControlAccessTerm ;
+    rdfs:label "Syria -- Damascus -- Damascus"@en .
+
+mdhn:numismatics a mdhn:ControlAccessTerm ;
+    rdfs:label "Numismatics"@en .
+
+mdhn:naqsh_i_rustam__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Naqsh-i Rustam (Iran)"@en .
+
+mdhn:inscriptions__parthian a mdhn:ControlAccessTerm ;
+    rdfs:label "Inscriptions, Parthian"@en .
+
+mdhn:pasargadae__extinct_city_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Pasargadae (Extinct city)"@en .
+
+mdhn:paikuli__iraq_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Paikuli (Iraq)"@en .
+
+mdhn:damascus__syria_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Damascus (Syria)"@en .
+
+
+mdhn:natural_landscapes a mdhn:ControlAccessTerm ;
+    rdfs:label "Natural landscapes"@en .
+
+mdhn:taq_e_bostan_site__iran_ a mdhn:ControlAccessTerm ;
+    rdfs:label "Taq-e Bostan Site (Iran)"@en .
+
+
+
+
