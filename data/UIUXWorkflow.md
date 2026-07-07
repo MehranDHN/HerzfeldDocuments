@@ -1,6 +1,6 @@
 **Preply.com** is a leading two-sided marketplace platform for 1-on-1 online language tutoring (and some other subjects). It connects students (learners) with independent tutors worldwide, emphasizing personalized lessons via video, flexible scheduling, payments, reviews, and progress tools. It also offers corporate training and an app.
 
-This analysis covers key aspects for an **educational clone** (learning purposes only — respect Preply's IP, terms, and trademarks; do not use for commercial competition without legal advice). Focus on core marketplace mechanics, not exact replication.
+This analysis covers key aspects for an **educational clone** (learning purposes only). Focus on core marketplace mechanics, not exact replication.
 
 ### 1. Core Features & User Roles
 - **Students/Learners**:
@@ -45,40 +45,131 @@ Use tools like Figma, Penpot, or draw.io for full wireframes. Here's a high-leve
 **Homepage Hero + How it Works** (Simple Mermaid for layout):
 ```mermaid
 flowchart TD
-    A[Header Logo , Search bar , Language/Currency , Login/Signup] --> B[Hero: Learn faster with your best language tutor + CTA Find tutor]
-    B --> C[Stats Row: Tutors , Reviews , Subjects]
-    C --> D[How it Works: 3 Cards - Find / Start / Progress]
-    D --> E[Featured Tutors Grid]
-    E --> F[Footer]
+    Header["Header: Logo, Search bar, Language/Currency selector, Login/Signup"] 
+    --> Hero["Hero: Learn faster with your best language tutor<br>Big CTA button: Find your tutor"]
+    
+    Hero --> Stats["Stats: 100,000+ tutors • 300,000+ reviews • 120+ subjects"]
+    
+    Stats --> HowItWorks["How Preply Works"]
+    HowItWorks --> Tutors["Featured Tutors + Testimonials"]
+    Tutors --> Footer["Footer"]
 ```
 
 **Tutor Search Page**:
 - Top: Filters sidebar (collapsible on mobile) — Price range, Availability, Specialties, etc.
 - Main: Grid/List of tutor cards (photo left, info right, book button).
 - Pagination/ Load more.
-
+```mermaid
+flowchart LR
+    Sidebar[Filters Sidebar<br>• Language<br>• Price range<br>• Availability<br>• Specialties<br>• Native speaker] 
+    --> MainContent[Main Area: Tutor Cards Grid]
+    
+    MainContent --> Card["Tutor Card<br>Photo • Name • Rating • Reviews • Rate • Book button"]
+```
 **Tutor Profile**:
 - Header: Photo, Name, Rating, Rate.
 - Tabs/Sections: About, Reviews, Schedule/Calendar, Specialties.
 - Sticky "Book a lesson" button.
+
+```mermaid
+flowchart TD
+    Header["Header: Logo, Search, Language, Account"] 
+    
+    ProfileTop["Hero Section: Large Photo + Name + Rating (e.g. 4.9 ★) + Hourly Rate + 'Super Tutor' badge + 'Book a trial lesson' button"]
+    
+    ProfileTop --> Tabs["Tabs / Sections"]
+    
+    Tabs --> About["About the tutor<br>• Bio<br>• Video introduction<br>• Education & Experience<br>• Languages spoken"]
+    
+    Tabs --> Specialties["Specialties & Teaching Style"]
+    
+    Tabs --> Reviews["Reviews & Testimonials<br>(List with ratings & comments)"]
+    
+    Tabs --> Schedule["Availability Calendar<br>• Select date/time<br>• Available slots"]
+    
+    Schedule --> BookingCTA["Sticky / Floating: Book 25min or 50min trial"]
+```
 
 For interactive wireframes, prototype in Figma with components (cards, modals, calendars). Prioritize mobile-first responsive design.
 
 ### 3. User Workflows (Main Flows)
 1. **Student Onboarding & Matching**:
    - Sign up/login → Quick quiz for goals → AI/recommendations → Browse/search with filters → View profiles → Message or book trial.
-
+```mermaid
+flowchart TD
+    Start[Visit Website] --> Signup[Create Account]
+    Signup --> Quiz[Answer Quick Questions]
+    Quiz --> Match[Smart Recommendations]
+    
+    Match --> Browse{Browse Tutors?}
+    Browse --> YesFilter[Apply Filters & Sort] --> Profile[View Detailed Profile]
+    Browse --> No[Use Recommended List] --> Profile
+    
+    Profile --> Message[Send Message?]
+    Message --> YesMsg[Chat with Tutor] --> Book
+    Message --> No --> Book
+    
+    Book[Book Trial Lesson] --> Pay[Pay & Confirm]
+    Pay --> Lesson[Attend Lesson]
+    Lesson --> Review[Review & Continue]
+```
 2. **Booking & Lesson**:
    - Select tutor/time (tutor availability calendar) → Specify goals → Pay (or use credits/subscription) → Join classroom at time → Post-lesson: Confirm, review, homework/AI recap.
-
+```mermaid
+flowchart TD
+    A[Tutor Profile Page] 
+    --> B[Click 'Book a trial lesson']
+    
+    B --> C["Select Duration: 25 min or 50 min"]
+    
+    C --> D["Calendar Picker<br>(Tutor's available slots in student's timezone)"]
+    
+    D --> E["Set Learning Goals<br>(Optional text / dropdowns)"]
+    
+    E --> F["Payment Summary<br>• Lesson price<br>• Platform fee (if any)<br>• Total + Guarantee note"]
+    
+    F --> G["Confirm Booking<br>→ Lesson added to calendar<br>→ Join video room at scheduled time"]
+    
+    G --> H["Post-Lesson:<br>Confirm attendance → Leave review → AI summary/homework"]
+```
 3. **Tutor Application & Management**:
    - Sign up → Build profile (steps: info, photo, video, description, availability) → Approval (5 business days) → Set rate → Get bookings → Teach & get paid.
-
+   - Tutor Dashboard (Simplified)
+```mermaid
+flowchart TD
+    THeader["Tutor Header: Earnings this month, Profile link"]
+    
+    TDash["Main Dashboard"]
+    
+    TDash --> TEarnings["Earnings Overview + Payouts"]
+    
+    TDash --> TSchedule["My Calendar & Availability Manager"]
+    
+    TDash --> TStudents["My Students + Lesson History"]
+    
+    TDash --> TProfile["Profile Performance<br>Rating, Reviews, Completion rate"]
+```
 4. **Payments & Subscriptions**:
    - Students: Prepay packages/subscriptions (recurring every 28 days). Tutors: Platform takes commission, pays out (PayPal etc.).
    - Guarantees/refunds handled by platform.
 
 5. **Progress & Retention**: AI insights, self-study, reviews drive repeats/switches.
+
+6. Student Dashboard
+```mermaid
+flowchart TD
+    Sidebar["Sidebar Navigation:<br>• My Lessons<br>• Messages<br>• Progress<br>• Find Tutors<br>• Subscription"]
+    
+    Main["Main Content Area"]
+    
+    Main --> Upcoming["Upcoming Lessons<br>(Cards with tutor, time, Join button)"]
+    
+    Main --> Progress["Learning Progress<br>• Level tracking<br>• AI Insights<br>• Streak / Hours learned"]
+    
+    Main --> Past["Past Lessons & Reviews"]
+    
+    Main --> Subscription["Active Subscription / Package balance"]
+```
 
 **Admin/Moderation**: Profile approval, dispute resolution, analytics.
 
@@ -97,7 +188,7 @@ Preply likely uses **PostgreSQL** (common with Django) + caching (Redis). No pub
 - **Reviews**: id, lesson_id, reviewer_id (student), reviewee_id (tutor), rating, comment, created_at.
 - **Subscriptions/Packages**: id, student_id, tutor_id, lessons_per_period, period_days, next_billing, status.
 - **Messages/Chat**: For in-app comms (or integrate Twilio/CometChat).
-- **Progress/AI Insights**: lesson_id, summary, homework (JSON or separate tables).
+- **Progress/AI Insights**: lesson_id, summary, homework (JSON/Integration with GraphDB and TripleStores for deep Analysis process).
 
 **Relationships**:
 - User 1:N TutorProfile/StudentProfile.
@@ -119,7 +210,7 @@ erDiagram
 ```
 
 **Additional**:
-- Use JSONB for flexible data (goals, metadata).
+- Use `JSONB` or `Turtle` for flexible data (goals, metadata).
 - Indexes on search fields (rates, times, ratings).
 - Audit logs for changes (approvals, payments).
 - Separate tables for notifications, files (lesson materials).
@@ -127,24 +218,24 @@ erDiagram
 Scale with sharding/partitions for lessons/payments at high volume. Use Snowflake-like warehouse for analytics.
 
 **Tech Stack Recommendations for Clone** (Educational, Modern):
-- **Frontend**: Next.js (React) + TypeScript + Tailwind/shadcn for design system. SSR for SEO.
-- **Backend**: Python/Django (matches Preply) or Node.js/NestJS/FastAPI.
+- **Frontend**: `.Net Blazor` or  `Next.js (React)` + `TypeScript` + `Tailwind/shadcn` for design system. `SSR` for `SEO`.
+- **Backend**: `.Net C#` or `Python/Django` (matches Preply) or `Node.js/NestJS/FastAPI`.
 - **Database**: PostgreSQL + Redis (caching/sessions/queues).
-- **Auth**: NextAuth or Django Allauth + JWT.
+- **Auth**: `Identity`, `NextAuth` or `Django Allauth` + `JWT`.
 - **Payments**: Stripe/PayPal.
 - **Video**: WebRTC (e.g., Daily.co, LiveKit) or integrate Twilio/Agora.
-- **Search**: PostgreSQL full-text or Elasticsearch.
-- **Deployment**: Docker, Kubernetes (as Preply does), AWS.
-- **AI/Extras**: OpenAI for matching/progress summaries.
+- **Search**: `PostgreSQL` full-text or `Elasticsearch`.
+- **Deployment**: `Docker`, `Kubernetes` (as Preply does), `AWS`.
+- **AI/Extras**: `OpenAI` for matching/progress summaries.
 
 **Open-Source Inspirations/Clones**: Look for marketplace templates (Sharetribe for no-code start), edtech scripts, or GitHub tutor platforms. Build iteratively: MVP with auth + profiles + basic booking.
 
 **Implementation Tips**:
-- Start with user auth, profiles, search/filters.
+- Presentation only approach focusing on UI/UX.
+- implementation of user auth, profiles, search/filters.
 - Prioritize calendar (use libraries like react-big-calendar).
 - Implement commission logic and guarantees carefully.
 - Focus on trust (reviews, verification, moderation).
 - Test flows end-to-end; add A/B for experiments.
 - Legal: Privacy (GDPR), terms, payments compliance.
 
-This provides a solid foundation for your educational clone. For visuals/code, prototype in Figma or start a Next.js + Django repo. If you need specific code snippets, Mermaid expansions, or help with a particular module (e.g., booking flow), provide more details!
