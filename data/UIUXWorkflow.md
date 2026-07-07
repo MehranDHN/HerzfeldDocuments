@@ -97,7 +97,7 @@ For interactive wireframes, prototype in Figma with components (cards, modals, c
    - Sign up/login → Quick quiz for goals → AI/recommendations → Browse/search with filters → View profiles → Message or book trial.
 ```mermaid
 flowchart TD
-    Start["Visit Preply.com"] --> Signup["Sign Up / Log In"]
+    Start["Visit Homepage"] --> Signup["Sign Up / Log In"]
 
     Signup --> Quiz["Onboarding Quiz<br>• What do you want to learn?<br>• Current level?<br>• Goals (Conversation, Exam, Business...)"]
 
@@ -127,6 +127,7 @@ flowchart TD
     Payment --> Lesson["Attend Lesson"]
 
     Lesson --> Review["Post-Lesson: Confirm + Review<br>→ Continue with tutor or Switch"]
+
 
 ```
 2. **Booking & Lesson**:
@@ -303,7 +304,7 @@ erDiagram
         string name "e.g. Business English"
         uuid category_id FK
     }
-    
+
     CATEGORY {
         uuid id PK
         string name "Languages / Math / IT"
