@@ -97,21 +97,40 @@ For interactive wireframes, prototype in Figma with components (cards, modals, c
    - Sign up/login → Quick quiz for goals → AI/recommendations → Browse/search with filters → View profiles → Message or book trial.
 ```mermaid
 flowchart TD
-    Start[Visit Website] --> Signup[Create Account]
-    Signup --> Quiz[Answer Quick Questions]
-    Quiz --> Match[Smart Recommendations]
+    Start["Visit Preply.com"] --> Signup["Sign Up / Log In"]
+
+    Signup --> Quiz["Onboarding Quiz<br>• What do you want to learn?<br>• Current level?<br>• Goals (Conversation, Exam, Business...)"]
+
+    Quiz --> Matching["Smart Matching Recommendations"]
+
+    Matching --> Browse{"Browse more tutors?"}
     
-    Match --> Browse{Browse Tutors?}
-    Browse --> YesFilter[Apply Filters & Sort] --> Profile[View Detailed Profile]
-    Browse --> No[Use Recommended List] --> Profile
+    Browse -->|Yes| CategorySelect["Select Category / Specialty<br>• Languages<br>• Math<br>• IT / Programming<br>• Business<br>• Test Prep, etc."]
     
-    Profile --> Message[Send Message?]
-    Message --> YesMsg[Chat with Tutor] --> Book
-    Message --> No --> Book
+    Browse -->|No| UseRecommended["Use AI Recommended Tutors"]
+
+    CategorySelect --> Filters["Apply Filters<br>• Price range<br>• Availability<br>• Native speaker<br>• Rating<br>• Specific Sub-specialty"]
+
+    UseRecommended --> Filters
+
+    Filters --> Profiles["View Tutor Profiles<br>(Filtered by Category + Specialty)"]
+
+    Profiles --> Message{"Message tutor first?"}
     
-    Book[Book Trial Lesson] --> Pay[Pay & Confirm]
-    Pay --> Lesson[Attend Lesson]
-    Lesson --> Review[Review & Continue]
+    Message -->|Yes| Chat["Send message to tutor"]
+    Message -->|No| Book["Book Trial Lesson"]
+
+    Chat --> Book
+
+    Book --> Payment["Payment & Confirmation<br>(with Satisfaction Guarantee)"]
+
+    Payment --> Lesson["Attend Lesson"]
+
+    Lesson --> Review["Post-Lesson: Confirm + Review<br>→ Continue with tutor or Switch"]
+
+    style CategorySelect fill:#f3e5f5
+    style Filters fill:#e3f2fd
+    style Book fill:#fff3e0
 ```
 2. **Booking & Lesson**:
    - Select tutor/time (tutor availability calendar) → Specify goals → Pay (or use credits/subscription) → Join classroom at time → Post-lesson: Confirm, review, homework/AI recap.
@@ -149,6 +168,45 @@ flowchart TD
     
     TDash --> TProfile["Profile Performance<br>Rating, Reviews, Completion rate"]
 ```
+  - Tutor Specialty / Category Workflow & Profile Relation
+```mermaid
+flowchart TD
+    TutorStart["Tutor Sign-Up"] 
+    --> ProfileCreation["Create Tutor Profile"]
+
+    ProfileCreation --> BasicInfo["Basic Info<br>• Name, Photo, Video Intro, Bio, Rate"]
+
+    BasicInfo --> SpecialtySection["Select Specialties / Categories<br>• Main Categories: Languages, Math, IT, Business, Test Prep, etc.<br>• Sub-specialties (e.g. Business English, Python Programming, IELTS)"]
+
+    SpecialtySection --> Approval["Submit for Preply Review & Approval"]
+
+    Approval --> Live["Profile Goes Live"]
+
+    Live --> StudentSearch["Students browse by Category → Specialty"]
+
+    StudentSearch --> Matching["Matching Algorithm uses<br>Tutor's selected Specialties"]
+
+    %% Relations
+    TutorProfile["Tutor Profile"] --> SpecialtiesDB["Specialties Table<br>(Many-to-Many relationship)"]
+    
+    SpecialtiesDB --> Categories["Categories Master List<br>(Language, Math, IT, etc.)"]
+``` 
+  - Detailed Specialty Management (Admin + Tutor View)
+```mermaid
+flowchart LR
+    Admin["Admin / Platform"] 
+    --> ManageCategories["Manage Master Categories & Sub-specialties<br>(Add / Edit / Tag)"]
+
+    Tutor["Tutor"] 
+    --> SelectSpecialties["During Profile Creation / Edit:<br>• Choose 1+ Main Categories<br>• Select relevant Sub-specialties<br>• Add custom description per specialty"]
+
+    SelectSpecialties --> TutorProfile["Tutor Profile Page<br>• Displays selected Specialties prominently<br>• Used in search filters & recommendations"]
+
+    Student["Student Side"] 
+    --> FilterBySpecialty["Filter tutors by Category / Specialty<br>• e.g. 'Business English' or 'Python for Beginners'"]
+
+    FilterBySpecialty --> Results["Search Results respect Tutor's Specialty tags"]
+```  
 4. **Payments & Subscriptions**:
    - Students: Prepay packages/subscriptions (recurring every 28 days). Tutors: Platform takes commission, pays out (PayPal etc.).
    - Guarantees/refunds handled by platform.
@@ -194,11 +252,49 @@ Preply likely uses **PostgreSQL** (common with Django) + caching (Redis). No pub
 - User 1:N TutorProfile/StudentProfile.
 - Tutor 1:N Lessons (as tutor), Student 1:N Lessons.
 - Many-to-many: Tutors-Subjects.
+- Database Relation Suggestion (Simple ER).
+```mermaid
+flowchart TD
+    Start["Visit Preply.com"] --> Signup["Sign Up / Log In"]
+
+    Signup --> Quiz["Onboarding Quiz<br>• What do you want to learn?<br>• Current level?<br>• Goals (Conversation, Exam, Business...)"]
+
+    Quiz --> Matching["Smart Matching Recommendations"]
+
+    Matching --> Browse{"Browse more tutors?"}
+    
+    Browse -->|Yes| CategorySelect["Select Category / Specialty<br>• Languages<br>• Math<br>• IT / Programming<br>• Business<br>• Test Prep, etc."]
+    
+    Browse -->|No| UseRecommended["Use AI Recommended Tutors"]
+
+    CategorySelect --> Filters["Apply Filters<br>• Price range<br>• Availability<br>• Native speaker<br>• Rating<br>• Specific Sub-specialty"]
+
+    UseRecommended --> Filters
+
+    Filters --> Profiles["View Tutor Profiles<br>(Filtered by Category + Specialty)"]
+
+    Profiles --> Message{"Message tutor first?"}
+    
+    Message -->|Yes| Chat["Send message to tutor"]
+    Message -->|No| Book["Book Trial Lesson"]
+
+    Chat --> Book
+
+    Book --> Payment["Payment & Confirmation<br>(with Satisfaction Guarantee)"]
+
+    Payment --> Lesson["Attend Lesson"]
+
+    Lesson --> Review["Post-Lesson: Confirm + Review<br>→ Continue with tutor or Switch"]
+
+    style CategorySelect fill:#f3e5f5
+    style Filters fill:#e3f2fd
+    style Book fill:#fff3e0
+```
 - Lessons link to Payments, Reviews.
 
 **ER Sketch (Mermaid)**:
 ```mermaid
-erDiagram
+flowchart TD
     USER ||--o{ TUTOR_PROFILE : "has"
     USER ||--o{ STUDENT_PROFILE : "has"
     TUTOR_PROFILE ||--o{ LESSON : "teaches"
