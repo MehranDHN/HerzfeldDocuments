@@ -288,15 +288,26 @@ flowchart TD
 
 **ER Sketch (Mermaid)**:
 ```mermaid
-flowchart TD
-    USER ||--o{ TUTOR_PROFILE : "has"
-    USER ||--o{ STUDENT_PROFILE : "has"
-    TUTOR_PROFILE ||--o{ LESSON : "teaches"
-    STUDENT_PROFILE ||--o{ LESSON : "takes"
-    TUTOR_PROFILE ||--o{ AVAILABILITY : "offers"
-    LESSON ||--o{ REVIEW : "receives"
-    LESSON ||--|| PAYMENT : "generates"
-    TUTOR_PROFILE }o--o{ SUBJECT : "teaches"
+erDiagram
+    TUTOR_PROFILE ||--o{ TUTOR_SPECIALTY : "has"
+    TUTOR_SPECIALTY }o--|| SPECIALTY : "references"
+    SPECIALTY ||--o{ CATEGORY : "belongs to"
+    
+    TUTOR_PROFILE {
+        uuid id PK
+        string hourly_rate
+    }
+    
+    SPECIALTY {
+        uuid id PK
+        string name "e.g. Business English"
+        uuid category_id FK
+    }
+    
+    CATEGORY {
+        uuid id PK
+        string name "Languages / Math / IT"
+    }
 ```
 
 **Additional**:
