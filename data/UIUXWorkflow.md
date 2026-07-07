@@ -45,8 +45,9 @@ Use tools like Figma, Penpot, or draw.io for full wireframes. Here's a high-leve
 **Homepage Hero + How it Works** (Simple Mermaid for layout):
 ```mermaid
 flowchart TD
-    A[Header: Logo | Search bar | Language/Currency | Login/Signup] --> B[Hero: "Learn faster with your best language tutor" + CTA "Find tutor"]
-    B --> C[Stats Row: Tutors | Reviews | Subjects]
+flowchart TD
+    A[Header Logo , Search bar , Language/Currency , Login/Signup] --> B[Hero: Learn faster with your best language tutor + CTA Find tutor]
+    B --> C[Stats Row: Tutors , Reviews , Subjects]
     C --> D[How it Works: 3 Cards - Find / Start / Progress]
     D --> E[Featured Tutors Grid]
     E --> F[Footer]
