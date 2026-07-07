@@ -128,9 +128,6 @@ flowchart TD
 
     Lesson --> Review["Post-Lesson: Confirm + Review<br>→ Continue with tutor or Switch"]
 
-    style CategorySelect fill:#f3e5f5
-    style Filters fill:#e3f2fd
-    style Book fill:#fff3e0
 ```
 2. **Booking & Lesson**:
    - Select tutor/time (tutor availability calendar) → Specify goals → Pay (or use credits/subscription) → Join classroom at time → Post-lesson: Confirm, review, homework/AI recap.
@@ -255,7 +252,7 @@ Preply likely uses **PostgreSQL** (common with Django) + caching (Redis). No pub
 - Database Relation Suggestion (Simple ER).
 ```mermaid
 flowchart TD
-    Start["Visit Preply.com"] --> Signup["Sign Up / Log In"]
+    Start["Visit Homepage"] --> Signup["Sign Up / Log In"]
 
     Signup --> Quiz["Onboarding Quiz<br>• What do you want to learn?<br>• Current level?<br>• Goals (Conversation, Exam, Business...)"]
 
@@ -286,9 +283,6 @@ flowchart TD
 
     Lesson --> Review["Post-Lesson: Confirm + Review<br>→ Continue with tutor or Switch"]
 
-    style CategorySelect fill:#f3e5f5
-    style Filters fill:#e3f2fd
-    style Book fill:#fff3e0
 ```
 - Lessons link to Payments, Reviews.
 
